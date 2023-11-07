@@ -122,48 +122,187 @@ Como usted advierte, llegará un momento en el que habrán muerto todos los que 
 
 Es aquí donde aparece una parte interesante de la historia de Josephus. En principio, habrían de morir todos los soldados que estaban con Josephus en la caverna, pero la diferencia es que quien quedara último tendría que suicidarse... Más aún: el sobreviviente tendría que quitarse la vida y no habría ningún otro integrante del grupo que estuviera vivo para verificar que lo hiciera.
 
-Como usted se imagina, Josephus eligió un lugar particular del círculo y se sentó allí. El sabía que siguiendo las reglas escritas más arriba, él habría de quedar como único sobreviviente. Esperó que todos estuvieran muertos, y en lugar de suicidarse, salió de la caverna y se entregó al enemigo.
+Como usted se imagina, Josephus eligió un lugar particular del círcu
 
-Pregunta: ¿En qué lugar se sentó Josephus?
-
-El problema es muy conocido en el mundo de la matemática y los programadores, y es por eso que hay muchísima literatura escrita sobre el tema, pero no hace falta saber nada particular para poder pensarlo. La versión que figura más arriba es solo una de las posibles variantes (la más sencilla) y si yo estuviera junto a usted, le sugeriría que no empiece con el caso de los 41 soldados, sino que intente con números más pequeños (de soldados) de manera tal de ver si le es posible intuir o imaginar una estrategia para determinar al ganador o sobreviviente a medida que va incrementando el número de soldados.
-
-De la misma forma, una vez que hayamos resuelto el problema para 41 soldados, sería interesante pensar en una estrategia que permita deducir cuál será la posición ganadora en el caso general, es decir, independizarse del número 41 y encontrar alguna estrategia o fórmula que permita deducir el número que hay que elegir sin tener que recorrer todos los pasos intermedios.
 
 ## 7. Introducción a la Inteligencia Artificial: El papel de la heurística<a name="Elemento7"></a>
 
-Los laberintos de forma cuadrada o rectangular son los más antiguos que existen; la primera representación conocida de un laberinto de este tipo se encuentra en una tablilla de Pilo y también aparece, como sello, en las tumbas del antiguo Egipto, donde se hizo famoso desde la antigüedad el Laberinto de Fayum, citado por Heródoto. Los laberintos de forma redonda o circular aparecieron a fines del siglo VII a.  C. en la Italia etrusca; más tarde, aparecen en las monedas de Cnosos, a finales del siglo III a. C. y se cree que eran usadas como mapa del célebre Laberinto de Creta.
-
-Los laberintos se clasifican básicamente en dos grandes grupos "según la relación que existe con el centro y la salida del mismo". El primer grupo de estos laberintos es el laberinto clásico o laberinto univiario: es el que hace recorrer, al ingresar en él, todo el espacio para llegar al centro mediante una única vía, camino o sendero; es decir, no ofrece la posibilidad de tomar caminos alternativos, no hay bifurcaciones, sino que existe una sola puerta de salida, que es la misma por la que se entra al laberinto. Por el hecho de tener un solo camino o sendero que seguir a medida que se avanza dentro de él, no es posible perderse en su interior. Por ser el laberinto más sencillo es frecuentemente utilizado para realizar experimentos de robótica en informática, especialmente populares en Japón.
-
-1. Dado el siguiente laberinto:
 
 
-- Definir qué es la heurística y cuál es su papel en la resolución de problemas
-- Resolver con recursividad, programar
-- Proponer Algoritmo de Solución, programar
-- Describir el punto anterior
 
-![Laberinto](Laberinto.png)
+
 
 
 ## 8. Reglas y Búsquedas: Espacio de Estados<a name="Elemento8"></a>
 
-- Generar los espacios de estados de los siguientes problemas:
 
-1. El juego consiste en pasar las 3 ranas verdes a la derecha y las 3 ranas marrones a la izquierda.  Las ranas pueden saltar a una piedra vacía que tengan delante, o saltar por encima de otra rana si en medio de ambas hay una piedra vacía.  
-![Juego de las Ranas Marrones y Verdes](Ranas.png)
-2. Tres misioneros se perdieron explorando una jungla. Separados de sus compañeros, sin alimento y sin radio, solo sabían que para llegar a su destino debían ir siempre hacia adelante.  Los tres misioneros se detuvieron frente a un río que les bloqueaba el paso, preguntándose que podían hacer. De repente, aparecieron tres caníbales llevando un bote, pues también ellos querían cruzar el río. Ya anteriormente se habían encontrado grupos de misioneros y caníbales, y cada uno respetaba a los otros, pero sin confiar en ellos.  Los caníbales se daban un festín con los misioneros cuando les superaban en número. Los tres caníbales deseaban ayudar a los misioneros a cruzar el río, pero su bote no podía llevar más de dos personas a la vez y los misioneros no querían que los caníbales les superaran en número. ¿Cómo puede resolverse el problema, sin que en ningún momento haya más caníbales que misioneros en cualquier orilla del río? Recuerda que un misionero y un caníbal en una orilla del río más uno o dos caníbales en el bote al mismo lado, significa que los misioneros tendrán problemas.         
-![Juego de Misioneros y Canibales](MisionerosYCanibales.png)
+
+
+
+
 
 
 ## 9. Generación de Dataset<a name="Elemento9"></a>
 
-Un conjunto de datos (conocido también por el anglicismo dataset, comúnmente utilizado en algunos países hispanohablantes) es una colección de datos habitualmente tabulada.
 
-En el caso de datos tabulados, un conjunto de datos contiene los valores para cada una de las variables organizadas como columnas, como por ejemplo la altura y el peso de un objeto, que corresponden a cada miembro del conjunto de datos, que están organizados en filas. Cada uno de estos valores se conoce con el nombre de dato. El conjunto de datos también puede consistir en una colección de documentos o de archivos.
+---
 
-- Generar un dataset de rostros por lo menos 5 diferentes
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
+
+---
+
+
+---
 
 
 
