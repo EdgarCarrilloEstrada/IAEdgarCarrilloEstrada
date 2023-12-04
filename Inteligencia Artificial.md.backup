@@ -32,7 +32,7 @@ Dado el texto anterior, se requiere hacer lo siguiente.
 - Redactar un ensayo mínimo 2000 palabras, del capítulo 1,2, 26, 27, y el apartado A del libro: "Inteligencia Artificial. Un enfoque moderno".
 
 ---
-***Ensayo***
+### Ensayo del libro "Inteligencia Artificial. Un enfoque moderno"
 
 Antes de poder empezar en forma con el tema de inteligencia artificial, debemos de establecer un punto de partida para poder estar dentro de la misma idea sobre qué es y qué aspectos se contemplan.
 
@@ -142,7 +142,7 @@ Turing, mediante su argumento de la informalidad del comportamiento afirmó que 
 
 Muchos filósofos han afirmado que una máquina que pasa el Test de Turing no quiere decir que realmente está pensando, sería solamente una simulación de dicha acción. El profesor Geoffrey Jefferson en 1949 dijo:
 
-“Hasta que una máquina pueda escribir un soneto o componer un concierto porque sienta los pensamientos y las emociones, y no porque haya una lluvia de símbolos, podría reconocer que la máquina iguala al cerebro, es decir, no sólo escribirlo sino que sepa lo que ha hecho.”
+> “Hasta que una máquina pueda escribir un soneto o componer un concierto porque sienta los pensamientos y las emociones, y no porque haya una lluvia de símbolos, podría reconocer que la máquina iguala al cerebro, es decir, no sólo escribirlo sino que sepa lo que ha hecho.”
 
 A esto anteriormente mencionado, Turing lo llama como el argumento de la consciencia, la máquina tiene que ser consciente de sus propias acciones y estados mentales.
 
@@ -178,7 +178,7 @@ Así como el uso del algebra lineal es importante, las distribuciones de probabi
 - Redactar un ensayo del documental sobre IA mínimo 3000 palabras. [Video](https://www.youtube.com/watch?v=5rvZBsueMoc)
 
 ---
-***Ensayo***
+### Ensayo del documental "Inteligencia Artificial"
 
 
 
@@ -195,7 +195,151 @@ Gardner propuso que la vida humana requiere del desarrollo de varios tipos de in
 - El ensayo debe ser escrito en markdown pueden utilizar jupyter notebook.
 
 ---
-***Ensayo***
+### Ensayo "Teoría de las inteligencias múltiples seg"
+
+Howard Gardner, nacido en 1943 en Scranton en Estados Unidos, es psicólogo, investigador y profesor de la Universidad de Harvard. Se trata de uno de los mayores referentes educativos de los últimos años. Fue alguien que redefinió, y revolucionó, el concepto de inteligencia al demostrar que no existe una sola manera de ser inteligente.
+La idea de que no existe una sola manera de ser inteligente viene gracias al estudio de dos campos esenciales para el área de la educación: los procesos de aprendizaje y el funcionamiento del cerebro humano. Después de terminar sus estudios, Gardner trabajaba por las mañanas con pacientes que sufrieron daño cerebral y por las tardes con niños. Al trabajar con los pacientes aprendió que dependiendo de la zona donde se recibe el daño cerebral, habrá fortalezas y debilidades: pueden perder el habla, la destreza musical o la capacidad de orientarse.
+Al trabajar con los niños se dio cuenta de un proceso muy similar: niños que son buenos para aprender idiomas, pero con dificultades para matemáticas; niños muy buenos para ciencia, pero no pueden analizar poesía.
+Al relacionar estos ambos criterios, Gardner llegó a la conclusión de que el término inteligencia estaba mal definido, pues no existe una sola manera de ser inteligente ni existe la posibilidad de medir la inteligencia. Gardner define la inteligencia como:
+>Un conjunto de capacidades cognitivas independientes y relacionadas entre sí que permiten a las personas resolver problemas, crear productos valiosos en la cultura y destacar en diferentes áreas de la vida.
+
+Según Howard Gardner, existen varios tipos de inteligencias múltiples bien definidas, cada una de las cuales se distingue por habilidades y capacidades particulares. Entender que son las 8 inteligencias múltiples es fundamental para apreciar la diversidad de las capacidades humanas en distintos aspectos de la vida y el aprendizaje.
+
+*Inteligencia lingüística*
+
+La inteligencia lingüística se refiere a la capacidad que posee una persona para utilizar un lenguaje, bien sea escrito u oral, a un alto nivel.
+
+Este tipo de inteligencia se distingue en aquellos individuos que tiene grandes habilidades comunicativas, facilidad en el aprendizaje de nuevos idiomas, capacidades para persuadir, crear historias, escribir poemas, fluidez en la expresión de sus ideas, comprender a otros a través de la comunicación verbal o escrita y otras habilidades similares.
+
+Algunas actividades para desarrollar y potenciar la inteligencia lingüística son las siguientes:
+- Leer y comprender la esencia de un libro
+- Destinar unos minutos de forma diaria para aprender un nuevo idioma
+- Ampliar el vocabulario buscando otras palabras (como sinónimos o conocer otras definiciones) para expresar conceptos o ideas más fácilmente.
+- Fomentar un hábito de escritura, ello puede ser mediante la creación de cuentos cortos, generación de contenido de valor, introducirse a la poesía, etc.
+- Tener como pasatiempos a juegos que utilicen palabras o letras. Muchos de estos juegos tienen una intención educativa, ayudando a las personas a redactar mejor, corregir sus errores gramaticales y mejorar en general sus habilidades de lenguaje.
+
+Algunos de los personajes famosos con inteligencia lingüística son:
+
+- William Shakespeare: Poeta, dramaturgo y actor inglés
+- Dante Alighieri: Poeta y escritor italiano
+- John Bowring: Lingüista, escritor, traductor y políglota italiano
+- Giuseppe Gasparo Mezzofanti: Cardenal, lingüista y políglota italiano
+- Pablo Neruda: Poeta y político chileno
+
+
+*Inteligencia musical*
+
+La inteligencia musical es aquella que se relaciona con la capacidad que posee un individuo en componer, percibir y apreciar las distintas formas musicales.
+
+Alude también a las habilidades de canto sin importar el género musical, a la capacidad de tocar instrumentos musicales a un alto nivel, a la utilización de destrezas en agrupaciones musicales (orquestas, bandas, grupos de canto, etc.), en la dirección de grupos musicales (como director musical) y a la estimación de melodías.
+
+La inteligencia musical se distingue en aquellos individuos con grandes capacidades musicales. Viéndose, por ejemplo, en personas que manejan fácilmente y a un alto nivel instrumentos musicales.
+
+Algunas actividades para desarrollar y potenciar la inteligencia musical son las siguientes:
+- Aprender a tocar un instrumento musical (piano, guitarra, tambor, trompeta, etc.)
+- Tomar clases de música personalizadas o grupales
+- Aprender sobre los géneros musicales que existen (rock, pop, electrónica, metal, flamenco, entre otros) y conocerlos con cierta profundidad. También se incluyen aquellos géneros que no son tan conocidos (City pop, UK garage, etc.)
+- Estudiar las diversas formas musicales que existen. Por nombrar algunos, están: réquiem, polonesa, intermezzo, alborada y fantasía.
+- Integrarse en ambientes dónde la música sea relevante de alguna manera. Ello puede ser academias de música, bandas musicales o relacionarse con cantantes o instrumentistas
+- Conocer sobre la cultura musical de otros lugares del mundo
+- Aprender a bailar varios géneros de música
+Algunos de los personajes famosos con inteligencia musical son:
+- Wolfgang Amadeus Mozart: Pianista, violinista, organista, compositor, director de orquesta y profesor de música
+- Frédéric Chopin: Compositor, pianista y profesor de música.
+- Ludwig van Beethoven: Violinista, pianista, organista, profesor de música y director de orquesta
+- Richard Wagner: Pianista, compositor, crítico musical, director de orquesta y director de teatro
+
+*Inteligencia lógica-matemática*
+
+La inteligencia lógico-matemática es aquella que permite solventar problemas lógicos y matemáticos. Da uso del pensamiento lógico-matemático para utilizar la coherencia, racionalidad, deducción, números, símbolos, figuras geométricas y otros elementos propios de la lógica y las matemáticas para proponer soluciones, crear ideas y establecer conclusiones.
+
+- Llevar a cabo ejercicios que permitan mejorar la capacidad de raciocinio: emplear las preguntas correctas, fomentar hábitos de lectura, dividir la información en pequeñas secciones para que sean más fáciles de asimilar y practicar videojuegos de inteligencia (ajedrez, cubo de rubik, rompecabezas, sudoku y otros puzles similares.).
+- Aprender a identificar un problema, saber establecer un plan de acción, ejecutarlo y evaluar los resultados para sacar conclusiones.
+- Plantearse metas simples en la cotidianidad. Por ejemplo: arreglar la cama o practicar un idioma durante un periodo corto de tiempo.
+- Realizar ejercicios para desarrollar el pensamiento crítico, como: cuestionar todo aquello que se afirma como verdadero, buscar información para despejar dudas y contemplar las cosas desde una perspectiva objetiva.
+- Estimular la memoria mediante actividades de memorización, para ello, se puede empezar con tareas simples, tal como memorizar números telefónicos, y luego ir subiendo la dificultad gradualmente, como tratar de recordar los detalles de un logo de una marca (colores, letras, formas, estilos tipográficos, etc.).
+
+
+Algunos de los personajes famosos con inteligencia lógica-matemática son:
+- Isaac Newton: Científico, físico, filósofo, inventor, alquimista y matemático inglés.
+- Alan Turing: Matemático británico, uno de los precursores de la informática.
+- Sofia Kovalévskaya: Matemática rusa con aportaciones en el campo del análisis, la mecánica y las ecuaciones.
+- Katherine Johnson, Dorothy Vaughan y Mary Jackson: Grupo de mujeres matemáticas de origen afroamericano que, gracias a sus cálculos trabajando para la NASA, ayudaron de forma sustancial para la llegada del hombre a la Luna
+
+
+*Inteligencia corporal kinestésica*
+
+La inteligencia kinestésica corporal alude a la capacidad que tiene una persona para coordinar la mente con el cuerpo y así generar un rendimiento físico de alto nivel. Es decir, se refiere a la facultad para utilizar las virtudes del cuerpo humano y lograr una gran destreza física.
+
+Como se aprecia, es una inteligencia que se puede contemplar en distintos ámbitos de la vida, ya que la utilización de alguna habilidad física, como la precisión, la fuerza, el equilibrio, la velocidad, la resistencia y la flexibilidad, son capacidades propias de esta Inteligencia.
+
+Las personas con estas capacidades se expresan a través de la realización de actividades que requieran el uso de su cuerpo, desenvolviéndose con gran nivel en dichos contextos.
+
+Algunos de los personajes famosos con inteligencia corporal kinestésica son:
+- Rudolf Nuréyev: Bailarín que nació en la Unión Soviética.
+- Florence Griffith Joyne: Atleta de velocidad estadounidense
+- Christiaan Neethling Barnard: Cirujano cardíaco sudamericano
+- Muhammad Ali: Boxeador estadounidense.
+
+*Inteligencia espacial*
+
+La inteligencia visual espacial se refiere a la capacidad que tiene una persona de pensar, representar y actuar efectivamente en espacios de dos o tres dimensiones. Tiene en cuenta, además, las diversas formas geométricas que constituyen el espacio, así como sus propiedades (ubicación, forma, color, volumen, ángulos, material, etc.).
+
+Es la habilidad para visualizar y relacionar los objetos que existen en un determinado plano, y desenvolverse adecuadamente en ello.
+
+Este tipo de inteligencia se puede contemplar en distintos ámbitos y en diferentes perfiles profesionales, como, por ejemplo: Topógrafos, cartógrafos, geógrafos, arquitectos, pilotos de barcos, conductores profesionales, dibujantes, ingenieros y diseñadores gráficos.
+
+Algunos de los personajes famosos con inteligencia espacial son:
+- Le Corbusier: Arquitecto, urbanista, pintor y escultor suizo.
+- Richard Buckminster Fuller: Arquitecto, diseñador e inventor estadounidense.
+- Edward Hopper: Fue un pintor estadounidense.
+- Gerardus Mercator: Fue un geógrafo, cartógrafo y matemático flamenco.
+
+*Inteligencia intrapersonal*
+
+La inteligencia intrapersonal alude a la capacidad que posee una persona para conocerse a sí misma. Es decir, es la consciencia plena que tiene un individuo sobre sus fortalezas, sus debilidades, su personalidad, sus sentimientos y sus anhelos en la vida.
+
+Es aquella inteligencia que permite a una persona saber a cabalidad, por medio del autoconocimiento, quién es ella en realidad.
+
+Es una forma de proyectar con exactitud su forma más profunda de ser, ello incluye los aspectos positivos y los aspectos negativos.
+
+Entre los perfiles profesionales en los que más se encuentra la inteligencia intrapersonal, están: Filósofos, psicólogos, antropólogos, escritores, etc.
+
+Algunos de los personajes famosos con inteligencia intrapersonal son los siguientes:
+- Sócrates
+- Pitágoras
+- Platón
+- Aristóteles
+- Demócrito
+- Agustín de Hipona
+- Parménides de Elea
+- Heráclito de Éfeso
+- Jean-Paul Sartre
+
+
+*Inteligencia interpersonal*
+
+La inteligencia interpersonal, también conocida como inteligencia social, se define como la capacidad que tiene una persona para comunicarse efectivamente con los demás, entenderlas emocionalmente y empatizar con ellas.
+Los individuos con esta tipología intelectual son, por lo general, perfiles como: líderes políticos, líderes sociales, líderes empresariales, figuras influyentes, psicológicos, entrenadores deportivos, docentes, comunicadores sociales, vendedores profesionales, conferencistas, etc.
+Algunos de los personajes famosos con inteligencia interpersonal son:
+- Joe Girard: Vendedor profesional estadounidense. 
+- Steve Jobs: Líder empresarial estadounidense, cofundador y presidente de Apple. 
+- Coco Chanel: Empresaria y diseñadora de moda francesa. 
+- Malcolm X: Político, orador y activista estadounidense. 
+
+*Inteligencia naturalista*
+
+La inteligencia naturalista se refiere a la capacidad de contemplar, identificar y clasificar a los seres vivos, así como comprender la relación que existen ellos. Es, también, la habilidad para intervenir en el medio ambiente y conseguir un objetivo en concreto.
+
+Esta inteligencia permite distinguir especies, señalar sus diferencias o semejanzas, estudiar sus comportamientos y entender el vínculo existente entre cada una de ellas.
+
+Dentro de los perfiles que más poseen esta tipología intelectual, están: Biólogos, científicos ambientales, ecólogos, botánicos, conservacionistas, etólogos, veterinarios, zoólogos, entomólogos, ictiólogos, ornitólogos, herpetólogos, naturalistas, etc.
+
+Algunos de los personajes famosos con inteligencia naturalista son:
+- Charles Darwin: Naturalista, biólogo, botánico, geólogo, entomólogo y apicultor británico
+- Alexander von Humboldt: Naturalista, botánico, explorador, geógrafo, astrónomo originario del Reino de Prusia
+- Mária Telkes: Científica e inventora de origen húngaro y con nacionalidad de estadounidense
+- Rachel Carson: Bióloga marina, ambientalista, conservacionista, zoóloga y escritora estadounidense
 
 
 

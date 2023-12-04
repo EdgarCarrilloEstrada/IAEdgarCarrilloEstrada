@@ -32,7 +32,7 @@ Dado el texto anterior, se requiere hacer lo siguiente.
 - Redactar un ensayo mínimo 2000 palabras, del capítulo 1,2, 26, 27, y el apartado A del libro: "Inteligencia Artificial. Un enfoque moderno".
 
 ---
-***Ensayo***
+### Ensayo del libro "Inteligencia Artificial. Un enfoque moderno"
 
 Antes de poder empezar en forma con el tema de inteligencia artificial, debemos de establecer un punto de partida para poder estar dentro de la misma idea sobre qué es y qué aspectos se contemplan.
 
@@ -178,8 +178,145 @@ Así como el uso del algebra lineal es importante, las distribuciones de probabi
 - Redactar un ensayo del documental sobre IA mínimo 3000 palabras. [Video](https://www.youtube.com/watch?v=5rvZBsueMoc)
 
 ---
-***Ensayo***
+### Ensayo del documental "Inteligencia Artificial"
 
+Muchas personas creen que la inteligencia es una cualidad única de los seres biológicos. En sí, no hay una definición para la inteligencia artificial, sino un conjunto de prácticas y piezas que las personas reúnen. La inteligencia artificial se puede definir en grandes rasgos como la capacidad de lograr objetivos complejos. 
+
+Cuando una máquina muestra la capacidad de ver, escuchar, comprender y aprender sobre el mundo al igual que nosotros se le considera artificialmente inteligente. 
+
+Entender el lenguaje es uno de los más grandes desafíos de los sistemas inteligentes. 
+
+Desde hace tiempo, en las obras de ciencia ficción ha existido la capacidad de que una máquina se comunique sin ningún esfuerzo con los humanos utilizando lenguaje natural. Pero como puede suponerse, el hacer qué una máquina entienda nuestro lenguaje humano es una de las tareas más difíciles de la inteligencia artificial. Esto anterior es debido a que los lenguajes tienen matices y son complicados; presentan dificultades para las computadoras qué están acostumbradas a reglas fijas. El lenguaje se puede malinterpretar con facilidad, como se ejemplifica en la frase de Groucho Marx: 
+
+> "Una mañana le dispare a un elefante en mi pijama"
+
+> "One morning I shot an elephant in my pajamas" 
+
+El comprender realmente lo que se dice es muy difícil para una computadora. Lo que intentamos lograr por medio del procesamiento del lenguaje natural es comenzar a descifrar qué significa cuando estas palabras en oraciones; como se relacionan las oraciones entre sí. 
+
+Uno de los primeros grandes avances en el procesamiento del lenguaje natural se produjo cuando IBM desarrolló una inteligencia artificial llamada WATSON para competir en el programa de televisión Jeopardy. 
+
+El equipo de IBM tardo años en desarrollar, perfeccionar y entrenar el sistema, incluidos meses de práctica en un set de televisión simulado. Para hacer de WATSON un contendiente, el equipo de IBM armó el sistema con algoritmos matemáticos avanzados y potentes tecnologías de inteligencia artificial como el aprendizaje automático. En febrero del 2011 debutó en televisión WATSON para mostrar al mundo lo que había aprendido. 
+
+WATSON intenta comprender la pregunta dividiéndola en las distintas partes de una oración, después hace una búsqueda dentro de los miles de millones de libros, artículos y documentos que cubren la gran variedad de temas de Jeopardy para tener miles de posibles respuestas. Después recopila, analiza y compara la evidencia de todo el material para reducir estas posibilidades. 
+
+Miles de algoritmos diferentes trabajan juntos para lograr reunir la evidencia de cada respuesta posible, y después las ordena de acuerdo con su peso de probabilidad. Estas tecnologías podrían ayudar a las industrias a resolver los problemas más difíciles del mundo que requieren gran procesamiento y análisis de datos. 
+
+Cuando se toma una decisión, mayoritariamente se tiene un debate entre los pros y contras de cada una de las posibles decisiones, así que el desarrollar un sistema informático capaz de debatir puede leer miles de artículos, obtener sus ventajas y desventajas, y en base a ello tomar la mejor decisión en cuestión de segundos. 
+
+El debatir es una tarea bastante complicada debido a que se requiere tener habilidades de pensamiento crítico y amplios conocimientos de una variedad de temas. Además de esto, los debatientes pueden usar el humor para presentar argumentos persuasivos a su contrincante. 
+
+El punto clave para desarrollar un sistema informático capaz de debatir consiste en que el ser humano entiende con facilidad la pregunta, pero le cuesta almacenar y conseguir la mayor cantidad de información posible; para las computadoras es justo lo contrario, su fuerte es el almacenamiento de gran cantidad de información, pero le cuesta comprender las preguntas. 
+
+Los seres humanos estamos tan acostumbrados a entender el lenguaje qué ni siquiera somos conscientes de lo difícil que es. Para nosotros es muy claro cómo construir un argumento, pero cuando tratamos de enseñarle a una computadora a entender el lenguaje tenemos elementos básicos. Le podemos enseñar a comprender las partes de una oración, identificar conceptos y con eso, quizá identificar conceptos similares, y con eso, identificar oraciones con similitudes. Pero en realidad debes decirle al sistema como unir los elementos de forma coherente. Un sistema de este tipo utiliza técnicas de procesamiento de lenguaje natural, aprendizaje automático y técnicas de razonamiento para entender los temas relacionados. 
+
+Los autos qué se conducen solos han sido una constante en nuestra imaginación durante décadas. Una de las aplicaciones más conocidas por la gente es para los vehículos autónomos, pero la gente debe entender que aún no está listo a pesar de ver vehículos de prueba de Google y el modo autónomo de Tesla. 
+
+La razón por la que aún no conseguimos llegar a la cima de los vehículos autónomos es porque conducir es difícil, y si agregamos el lidiar con condiciones climáticas como lluvia o nieve, o de noche se complica aún más. 
+
+Muchos autos autónomos iniciaron sus entrenamientos en pistas de prueba y últimamente han salido a las calles a seguir sus entrenamientos; aunque accidentes recientes ponen en duda la capacidad de lograr perfeccionar estos sistemas. 
+
+La inteligencia artificial en un vehículo ayuda a resolver la pregunta "¿Qué es lo que veo?" de acuerdo con las imágenes obtenidas de las cámaras alrededor el auto. A esta capacidad se le llama percepción. La otra cosa que debe hacer la inteligencia artificial es descubrir cómo se mueven los objetos que veo, a eso se llama predicción. Con estos dos puntos anteriores el auto debe preguntarse "¿A dónde quiero llegar?" 
+
+Con la capacidad actual de la inteligencia artificial de aprender de la experiencia los vehículos autónomos podrían poblar las calles dentro de los próximos 10 años. Se estima que 1 de cada 4 autos en el futuro no necesitará conductor. 
+
+En 1957 se desarrolló la primera máquina capaz de aprender a jugar damas inglesas mejor que la persona que desarrolló el código. Al analizar los datos de miles de juegos, el sistema aprendió qué movimientos conducían probablemente a una victoria. A esto se le llamó aprendizaje automático. 
+
+En el aprendizaje automático una computadora analizará datos, encontrará patrones en esos datos y usa esos patrones para encontrar la mejor ruta hacia un objetivo.
+Aunque este trabajo fue revolucionario, se tenían como limitantes los datos y la potencia de procesamiento de la época. Se usaba una computadora IBM 701 con solo 256 bytes de almacenamiento de memoria que aproximadamente el tamaño promedio de un tweet actual.
+
+Enseñar a las computadoras a jugar juegos sigue siendo un banco de pruebas efectivo para el avance de la inteligencia artificial, y en 1996 la potencia de procesamiento había avanzado lo suficiente como para que la máquina Deep Blue de IBM derrotara al gran maestro Garry Kasparov en el ajedrez.
+Un salto dramático en la potencia de procesamiento, un aumento masivo de datos y avances en algoritmos contribuyó a la revolución de la inteligencia artificial de hoy en día. 
+
+Todos los días creamos más datos, más rápido que en ningún otro momento de la historia humana. Cada minuto vemos más de 4 millones de videos de YouTube, realizamos más de 3.5 millones de búsquedas en Google y escribimos tweets casi medio millón de veces.
+
+La inteligencia artificial toma todos estos datos y aprende de ellos.  Lo hace a una escala que los humanos no podríamos hacer, como ver un millón de reglones de datos y darles algún sentido. Esta enorme cantidad de datos proporciona infinitas oportunidades para que las computadoras aprendan y para que los científicos de la computación experimenten y perfeccionen las técnicas de aprendizaje automático y debido a que todos contribuimos con los datos en internet, todos somos parte de ese experimento.
+
+Cada vez que miramos nuestro smartphone, cada vez que le damos un clic a un enlace en algun sitio web, todos los sensores que nos rodean en la actualidad están rastreando información sobre nuestras vidas. En la actualidad, los sistemas de inteligencia artificial nos monitorean constantemente y ajustan sus resultados a nuestras preferencias, como Spotify, que genera una lista de reproducción personalizada para ti o como Facebook que elige tu contenido en tu feed de noticias; también están guiando cohetes espaciales que aterrizan solos para SpaceX; ayudan a los médicos a diagnosticar el cáncer mediante escáneres radiológicos.
+
+En los últimos años ha habido avances espectaculares en el que muchas cosas que los expertos pensaban tardarían décadas, han sucedido de repente. Los sistemas de inteligencia artificial más antiguos que vencen a los mejores humanos en el ajedrez tienen la inteligencia programada en ellos por los humanos que saben cómo jugar; lo más moderno es que la máquina simplemente aprenda a jugar por ella misma. 
+
+En 2013, los juegos de Atari 2600 como Space Invaders, Breakout, Seaquest y Pong fueron dominados por un sistema creado por Google llamado DeepMind, sin ningún aporte humano aparte de las reglas del juego.
+Esta inteligencia artificial fue pionera en que aprendiera a jugar juegos de computadora, sin tener idea que es un juego o una pelota, un jugador o una puntuacion. Solo recibía datos de los píxeles en la pantalla y después de un rato, el mismo algoritmo simple tenía un rendimiento superhumano en gran cantidad de juegos diferentes. 
+
+En 2017 la misma técnica de videojuegos simples fue adaptada a uno de los juegos más complejos jamás creados: Go. Go es un antiguo juego de mesa chino que es tan complejo que hay más posiciones en un tablero de Go que átomos en el universo. Un sistema de inteligencia artificial llamado “AlphaGo Zero” aprendió a jugar Go solo jugando consigo mismo, sin que se le mostraran juegos de ejemplo previamente. Las decisiones que tomó para ganar desafiaron todo lo que los humanos habían intentado antes.
+Mientras que el aprendizaje automático generalmente implica aprender de grandes cantidades de datos, este programa se enseñó a si mismo a través del método más humano de prueba y error; en este proceso creó sus propios datos para aprender. La inteligencia artificial en este caso, para todos los efectos, es una forma de super inteligencia artificial que nos enseña cosas que nunca descubriríamos por nuestra cuenta. 
+
+Históricamente, las maquinas han tomado el trabajo de los humanos desde la primera revolución industrial. Pero esta transición también creo nuestras primeras fabricas que generaron nuevos empleos que nunca habían existido.  Este ciclo de perdida y creación de empleos se repite a través de las décadas. 
+Internet y la era digital eliminaron empleos como creador de mapas y mecanógrafo, agentes de viajes y operadores telefónicos. También redefinieron la industria de la música y el entretenimiento. Generaron una economía global con el mercado en línea y nuevos empleos que no se conocían hace veinte años como estrella de YouTube, gerentes de redes sociales y desarrollador de aplicaciones. 
+
+Ahora estamos en el comienzo de otra revolución en la que los avances de la inteligencia artificial llegaran a todos los aspectos de nuestras vidas. Lo que sucede hoy, no es que las maquinas reemplacen a los humanos, sino que los humanos que trabajan con inteligencia artificial están reemplazando a los humanos que trabajan sin ella. 
+
+En Boston Massachusetts, ReThink Robotics crea robots artificialmente inteligentes que son compañeros de humanos en las fabricas. El robot de esta empresa llamado Sawyer lleva mucha inteligencia artificial detrás de él. Sabe que tiene que acercarse a un objeto de una forma particular, sabe como colocar su brazo, y también tiene algunas reglas, por ejemplo, si tiene que tomar algo debe volver a intentarlo y tomarlo si en el primer intento no lo logró. 
+
+El robot mide la fuerza a cada una de las 7 articulaciones que tiene y eso ayuda a identificar cuanta fuerza estamos empujando o incluso cuando carga algo sabemos cuánto pesa en realidad. Tiene una cámara y puede mirar alrededor de su área de trabajo, comprender cuando están cambiando las cosas para que pueda tomar las diferentes acciones. Este robot Sawyer aprende por demostración, no por programación. Esto permite que casi cualquier persona pueda capacitar al robot para realizar tareas.
+
+A la hora de entretar al robot, el entrenador crea algunos puntos clave necesarios para completar la tareas, y la inteligencia artificial rellenará de forma automatica lo necesario para que se pueda terminar de realizar la accion establecida. En una empresa de Virginia, utilizan este robot para cortar madera en una fabrica de sellos debido a que es un trabajo muy tedioso y peligroso para que sea realizado por un humano; así como para llenar tinta que es un trabajo muy sucio y requiere de mucho tiempo.
+
+Además de que es mas seguro utilizar un robot para cortar la madera necesaria para armar las monturas de los sellos, puede trabajar toda la noche para aprovechar el tiempo. Anteriormente, si se les solicitaban 100 monturas se debían de cortar, y hacer los agujeros en los trozos de madera para colocar las manijas sobre ellas. Ahora, el robot hace todo lo anterior. Con esto, los robot pueden hacer los trabajos repetitivos que aburren a las personas, y así estas personas pueden disfrutar sus trabajos y ser más eficaces como trabajadores y seres humanos.
+
+Existen otros robots que muestran una agilidad similar a la humana, tal es el caso del robot Spot de Boston Dynamics. Éste puede abrir puertas y caminar a a traves de ellas, el robot Atlas puede correr, saltar y hacer parkour; sin embargo, también se crean otros robots que se parecen a los seres humanos.
+Desde la antigüedad, las personas imaginaban robots que reproducian la imagen humana. El ser humano cuenta con el deseo de imitarse a si mismo a través de robots. Dentro de la ciencia ficción, en la pelicula “Blade Runner” existe un androide que no se distingue de los humanos, y fueron diseñados para copiar a los humanos en todos los sentidos. 
+
+En Japón principalmente, existe todo un movimiento para intentar hacer que los robots parezcan lo más humanos posible y muchos investigadores y futuristas creen que es una actividad bastante contraproducente. Esto nos puede poner en el lugar en el que sintamos que las máquinas tienen, en cierto sentido, los mismos derechos que nosotros porque se parecen en apariencia. 
+
+Dependiendo del tipo de robot, nos va a indicar que tan inteligente y consciente quieres que sea. Por dar dos ejemplos, no quieres que tu tostadora de pan sea demasiado inteligente o sea consciente de si misma ya que a nadie le gustaría estar haciendo pan tostado por el resto de su vida; por otra parte, si creamos un robot para cuidar gente mayor, nos gustaría que sus respuestas e interacción fuera lo mas cercano a un ser humano real consciente para que el usuario sienta esa cercanía y empatía sincera.
+
+Todo el mundo aprende de forma diferente, y si existen herramientas que ayuden a personalizar este proceso sienta las bases para el aprendizaje permanente. Muchas experiencias para los niños son experiencias nuevas para ellos. Dentro del periodo de 0 a 8 años los niños aprenden la gran mayoría de las cosas. Los niños que inician la escuela más tarde, en comparación con los que la inician a temprana edad se quedan atrasados y todas las escuelas tiene diferencias drásticas. 
+
+En escuelas con grupos grandes, lo mejor sería poder individualizar la enseñanza para cada uno de ellos, pero es muy difícil porque muchas veces en el salón de clases el profesor está solo y no se cuenta con ayuda adicional. 
+
+IBM WATSON y Sesame Workshop están colaborando en un programa piloto y de investigación para una nueva aplicación que enseña vocabulario en la etapa temprana, enfocandose en los alumnos de jardin de niños. Se ha comprobado que los niños en niveles socioeconómicos altos escuchan treinta millones de palabras más a los 4 años que los niveles más bajos, y debido a eso les resulta más dificil aprender a lo largo de sus vidas. 
+El desarrollo temprano es extremadamente importante para determinar el éxito de un niño en la vida, por lo que una aplicación como esta puede reducir la brecha anteriormente mencionada.
+
+Al inicio de la aplicación ”Word Chow” es donde la mayoría de los niños empiezan. El juego consiste en que un personaje dice una palabra y el niño debe tocar la imagen que coincide con ella y el personaje se come dicha palabra. Cuando la imagen seleccionada es errónea, el personaje escupe dicha opción y te deja intentar una segunda vez. 
+
+En la aplicación se hace un seguimiento de sus respuestas y se evalúa el conocimiento del niño de esa palabra en particular, y las palabras que aparecen después dependerá de como se desempeña en las evaluaciones; de esta forma, las palabras se ajustan de acuerdo a cada niño. A simple vista se ve como un simple juego para niños, pero detrás de ella la inteligencia artificial recopila datos y los algoritmos evaluan el nivel de vocabulacion en funcion de sus respuestas, luego predice y decide en que palabras debe de enfocarse el niño, ya que el camino de aprendizaje para cada uno es distinto.
+
+Esta aplicación de vocabulario incluye juegos adaptables y videos del programa de televisión Plaza Sésamo, que enseñan nuevas palabras y refuerzan el aprendizaje. Una vez que el niño completa estas actividades de aprendizaje, esa palabra aprendida se agrega a su libro de palabras personal, una señal de confianza de que el niño entiende su significado.
+Los niños que están dentro de este programa de pruebas mejoraron su lectura de forma significativa, superando las expectativas de sus profesores. Además, están utilizando las palabras aprendidas dentro de las 9 semanas que duró el programa piloto.
+
+Los juegos artificialmente inteligentes se enfocan en niños pequeños, pero el adaptar los sistemas de inteligencia artificial para grados superiores podría enseñarte para aprender de forma más eficiente.
+IBM también esta desarrollando un tutor artificialmente inteligente que ayuda a los estudiantes y profesores universitarios en colaboracion con la Universidad Pearson. Esta tecnología se ha desarrollado y probado con aproximadamente 800 estudiantes en 2 universidades de todo Estados Unidos. 
+
+En la investigación es bien sabido que la tutoría privada impulsa el aprendizaje. Hay un estudio que dice que el 97% de los estudiantes que recibieron tutorias privadas tienen un desempeño 20% más alto que los demás. A pesar de los beneficios de la tutoría personal, es un enfoque dificil de implementar para todos los estudiantes cuándo y dónde lo necesiten. 
+
+El tutor WATSON es un tutor virtual exclusivo para cada estudiante que habla con ellos. El tutor te hará una pregunta y si respondes de forma correcta todo sigue igual, sino, WATSON regresa y te hará una pregunta más especifica para irte guiando en la dirección correcta. Si no sabes la respuesta puedes pedir directamente que te guíe. 
+
+WATSON adapta todo el conocimiento para el que ha sido entrenado para cada estudiante en particular en cada turno de la conversacion, y asi, en funcion de lo que diga el estudiante el tutor comenzará a guiarlos por un camino para demostrar el conocimiento.
+Los profesores tambien pueden acceder al tutor WATSON para obtener informacion sobre el progreso de sus estudiantes y poder adaptar las clases conociendo los conceptos que más trabajo les cuesta entender a los estudiantes. Además de personalizar el aprendizaje para cada estudiante, ayuda a optimizar los tiempos de estudio.
+
+La háptica es la ciencia de aplicar el tacto a nuestras interacciones con la tecnología, por ejemplo, la sensación cuando el teléfono vibra en vez de que emita un sonido. La empresa WearWorks ha diseñado unos dispositivos que guían a personas con problemas visuales en el mundo real.
+Wayband es un brazalete háptico de inteligencia artificial que fue inicialmente pensado para ver su comportamiento al guiar a una persona con dificultad visual durante el maratón de Nueva York. 
+La forma en que funciona la Wayband es que crea un corredor virtual un poco más ancho que un humano al trazar una ruta usando coordenadas GPS y aprendizaje automático. A través de la retroalimentación háptica se asegura de que el corredor está dentro de este corredor virtual. 
+
+La forma en que el usuario sabe que está dentro del camino es que no recibe ninguna reacción. Tan pronto como se sale del camino recibe una pequeña notificación háptica para decir que debes regresar al camino.
+El maratón de Nueva York es de los más grandes del mundo, hay cerca de 50 mil corredores por lo que es una prueba complicada para la Wayband. Al principio de la prueba, la Wayband experimentó algunos problemas, pero a pesar de eso, durante 21 de los 42 kilómetros del maratón funcionó sin problemas. Pero a partir de la mitad del recorrido las cosas comenzaron a complicarse debido a la gran cantidad de edificios y puentes metálicos que bloqueaban la señal del GPS junto con la gran cantidad de señales telefónicas de los usuarios interfirieron con las señales de la Wayband.
+
+Luego, para agregar una dificultad extra, el clima lluvioso provocó que el sensor ultrasónico dejara de funcionar y tuvo que recurrir a sus guías para llegar a la meta, cosa que era regresar a la forma anteriormente usada por corredores con dificultad visual. 
+A pesar de los grandes problemas a los que se enfrentó la Wayband durante el maratón, resultó para bien ya que se resaltaron los puntos a mejorar y ayudan a que productos como estos sean perfeccionados para que más personas en el mundo puedan llegar a tener acceso a dispositivos de este estilo lo antes posible. La verdadera mejora de estos dispositivos dependerá de personas que estén dispuestos a hacer este tipo de pruebas por el bien de los demás y que se vuelvan accesibles.
+
+Así como en algún momento los primeros aviones eran muy rudimentarios en comparación de los aviones actuales, la inteligencia artificial pasa por un proceso similar. Este tipo de pruebas de concepto muestran lo que se puede lograr en los próximos años y dan un rumbo a seguir.
+
+La inteligencia artificial presenta problemas en cuanto a temas de privacidad, debido a lo poderoso que se vuelve en temas de vigilancia, reconocimiento facial o cualquier tipo de biofirma que podamos aplicar.
+La visión por computadora puede analizar las caras para identificar a las personas a través del reconocimiento facial. La forma en que esto funciona es que se observa una cara, extrae rasgos distintivos de ella como el tamaño, la posición de los ojos, la nariz, los pómulos y la mandíbula. Luego, busca otras imágenes con las mismas características. De esta misma manera es lo que aplica Facebook cuando te pregunta si quieres etiquetarte en una publicación o cuando los iPhone más recientes se desbloquean al escanear el rostro de su dueño. 
+
+Actualmente, muchos aeropuertos están utilizando el reconocimiento facial para registrar a los pasajeros, compararlas con las fotos de los pasaportes y, de esta forma, agilizar los viajes. Muchas personas que buscan proteger la privacidad mencionan que esto va más allá de lo necesario.
+El punto de inflexión está en donde qué tan dispuestos están los ciudadanos en perder su privacidad con el fin de garantizar la seguridad ante el Estado. En muchos eventos deportivos, conciertos y estaciones de tren los gobiernos están usando el reconocimiento facial para combatir y prevenir ataques terroristas. En China, 375 sospechosos fueron capturados gracias a estos sistemas de reconocimiento facial.
+
+Un punto también muy importante es que de forma voluntaria muchas personas están aceptando perder cierta privacidad al introducir dispositivos como los asistentes virtuales Google Home o Amazon Alexa a sus hogares. 
+Un paso aún más sorprendente sobre la inteligencia artificial y el reconocimiento facial es que se creó una que es capaz de distinguir personas homosexuales y heterosexuales basándose en las características faciales y las expresiones de las personas.
+
+Se puso a prueba analizando las fotografías de un sitio web de citas y pudo determinar si los hombres era homosexuales o heterosexuales con un 81% de precisión y 74% para las mujeres de precisión.
+De forma similar, en Tel Aviv, Israel desarrollaron un sistema que permite identificar por medio del rostro de las personas si es que tienen rasgos de personas que han cometido algún crimen con un 90% de confiabilidad. Esta inteligencia artificial no está conectada a ninguna base de datos de antecedentes penales, usa única y exclusivamente el rostro de las personas para determinar que tanta probabilidad hay de que sea un delincuente.
+WATSON for drug discovery ayuda a los doctores procesando cantidades enormes de literatura medica junto con otros datos para ayudar a los investigadores a encontrar otros medicamentos para algunas de las enfermedades mas irritantes.
+
+Enfermedades como el parkinson avanzan tan lento que es dificil de estudiarlas mejor, y actualmente se usan medicamentos para controlarla que tienen más de 60 años desde que se crearon.
+Las revistas medicas publican cerca de medio millon de articulos al año, ningun medico investigador podria analizar toda esta informacion pero WATSON for drug discovery puede ayudar a los investigadores a encontrar rapidamente conexiones entre datos medicos y de medicamentos para saber si existe algun medicamento que pueda usarse de nuevas maneras para tratar el parkinson.
+
+La inteligencia artificial esta siendo capaz de analizar el ADN de una persona para predecir sobre la susceptibilidad a cierto tipo de cancer o la eficacia de algun medicamento para un paciente.
+Los humanos somos inteligencias generales ya que podemos hacer diferentes cosas en diferentes contextos. Las computadoras son extremadamente limitadas a lo que pueden hacer. El objetivo general es el poder crear una inteligencia general artificial que puede ser super adaptable, a esto tambien se le llama singularidad.
+En la singularidad es donde la gente tiene miedo de que la inteligencia artificial supere a la humana y nos quite el control. Se cree que las superinteligencias artificiales no serán creadas por humanos, sino por otras mismas inteligencias artificiales. 
 
 
 ---
@@ -195,7 +332,151 @@ Gardner propuso que la vida humana requiere del desarrollo de varios tipos de in
 - El ensayo debe ser escrito en markdown pueden utilizar jupyter notebook.
 
 ---
-***Ensayo***
+### Ensayo "Teoría de las inteligencias múltiples según Gardner"
+
+Howard Gardner, nacido en 1943 en Scranton en Estados Unidos, es psicólogo, investigador y profesor de la Universidad de Harvard. Se trata de uno de los mayores referentes educativos de los últimos años. Fue alguien que redefinió, y revolucionó, el concepto de inteligencia al demostrar que no existe una sola manera de ser inteligente.
+La idea de que no existe una sola manera de ser inteligente viene gracias al estudio de dos campos esenciales para el área de la educación: los procesos de aprendizaje y el funcionamiento del cerebro humano. Después de terminar sus estudios, Gardner trabajaba por las mañanas con pacientes que sufrieron daño cerebral y por las tardes con niños. Al trabajar con los pacientes aprendió que dependiendo de la zona donde se recibe el daño cerebral, habrá fortalezas y debilidades: pueden perder el habla, la destreza musical o la capacidad de orientarse.
+Al trabajar con los niños se dio cuenta de un proceso muy similar: niños que son buenos para aprender idiomas, pero con dificultades para matemáticas; niños muy buenos para ciencia, pero no pueden analizar poesía.
+Al relacionar estos ambos criterios, Gardner llegó a la conclusión de que el término inteligencia estaba mal definido, pues no existe una sola manera de ser inteligente ni existe la posibilidad de medir la inteligencia. Gardner define la inteligencia como:
+>Un conjunto de capacidades cognitivas independientes y relacionadas entre sí que permiten a las personas resolver problemas, crear productos valiosos en la cultura y destacar en diferentes áreas de la vida.
+
+Según Howard Gardner, existen varios tipos de inteligencias múltiples bien definidas, cada una de las cuales se distingue por habilidades y capacidades particulares. Entender que son las 8 inteligencias múltiples es fundamental para apreciar la diversidad de las capacidades humanas en distintos aspectos de la vida y el aprendizaje.
+
+*Inteligencia lingüística*
+
+La inteligencia lingüística se refiere a la capacidad que posee una persona para utilizar un lenguaje, bien sea escrito u oral, a un alto nivel.
+
+Este tipo de inteligencia se distingue en aquellos individuos que tiene grandes habilidades comunicativas, facilidad en el aprendizaje de nuevos idiomas, capacidades para persuadir, crear historias, escribir poemas, fluidez en la expresión de sus ideas, comprender a otros a través de la comunicación verbal o escrita y otras habilidades similares.
+
+Algunas actividades para desarrollar y potenciar la inteligencia lingüística son las siguientes:
+- Leer y comprender la esencia de un libro
+- Destinar unos minutos de forma diaria para aprender un nuevo idioma
+- Ampliar el vocabulario buscando otras palabras (como sinónimos o conocer otras definiciones) para expresar conceptos o ideas más fácilmente.
+- Fomentar un hábito de escritura, ello puede ser mediante la creación de cuentos cortos, generación de contenido de valor, introducirse a la poesía, etc.
+- Tener como pasatiempos a juegos que utilicen palabras o letras. Muchos de estos juegos tienen una intención educativa, ayudando a las personas a redactar mejor, corregir sus errores gramaticales y mejorar en general sus habilidades de lenguaje.
+
+Algunos de los personajes famosos con inteligencia lingüística son:
+
+- William Shakespeare: Poeta, dramaturgo y actor inglés
+- Dante Alighieri: Poeta y escritor italiano
+- John Bowring: Lingüista, escritor, traductor y políglota italiano
+- Giuseppe Gasparo Mezzofanti: Cardenal, lingüista y políglota italiano
+- Pablo Neruda: Poeta y político chileno
+
+
+*Inteligencia musical*
+
+La inteligencia musical es aquella que se relaciona con la capacidad que posee un individuo en componer, percibir y apreciar las distintas formas musicales.
+
+Alude también a las habilidades de canto sin importar el género musical, a la capacidad de tocar instrumentos musicales a un alto nivel, a la utilización de destrezas en agrupaciones musicales (orquestas, bandas, grupos de canto, etc.), en la dirección de grupos musicales (como director musical) y a la estimación de melodías.
+
+La inteligencia musical se distingue en aquellos individuos con grandes capacidades musicales. Viéndose, por ejemplo, en personas que manejan fácilmente y a un alto nivel instrumentos musicales.
+
+Algunas actividades para desarrollar y potenciar la inteligencia musical son las siguientes:
+- Aprender a tocar un instrumento musical (piano, guitarra, tambor, trompeta, etc.)
+- Tomar clases de música personalizadas o grupales
+- Aprender sobre los géneros musicales que existen (rock, pop, electrónica, metal, flamenco, entre otros) y conocerlos con cierta profundidad. También se incluyen aquellos géneros que no son tan conocidos (City pop, UK garage, etc.)
+- Estudiar las diversas formas musicales que existen. Por nombrar algunos, están: réquiem, polonesa, intermezzo, alborada y fantasía.
+- Integrarse en ambientes dónde la música sea relevante de alguna manera. Ello puede ser academias de música, bandas musicales o relacionarse con cantantes o instrumentistas
+- Conocer sobre la cultura musical de otros lugares del mundo
+- Aprender a bailar varios géneros de música
+Algunos de los personajes famosos con inteligencia musical son:
+- Wolfgang Amadeus Mozart: Pianista, violinista, organista, compositor, director de orquesta y profesor de música
+- Frédéric Chopin: Compositor, pianista y profesor de música.
+- Ludwig van Beethoven: Violinista, pianista, organista, profesor de música y director de orquesta
+- Richard Wagner: Pianista, compositor, crítico musical, director de orquesta y director de teatro
+
+*Inteligencia lógica-matemática*
+
+La inteligencia lógico-matemática es aquella que permite solventar problemas lógicos y matemáticos. Da uso del pensamiento lógico-matemático para utilizar la coherencia, racionalidad, deducción, números, símbolos, figuras geométricas y otros elementos propios de la lógica y las matemáticas para proponer soluciones, crear ideas y establecer conclusiones.
+
+- Llevar a cabo ejercicios que permitan mejorar la capacidad de raciocinio: emplear las preguntas correctas, fomentar hábitos de lectura, dividir la información en pequeñas secciones para que sean más fáciles de asimilar y practicar videojuegos de inteligencia (ajedrez, cubo de rubik, rompecabezas, sudoku y otros puzles similares.).
+- Aprender a identificar un problema, saber establecer un plan de acción, ejecutarlo y evaluar los resultados para sacar conclusiones.
+- Plantearse metas simples en la cotidianidad. Por ejemplo: arreglar la cama o practicar un idioma durante un periodo corto de tiempo.
+- Realizar ejercicios para desarrollar el pensamiento crítico, como: cuestionar todo aquello que se afirma como verdadero, buscar información para despejar dudas y contemplar las cosas desde una perspectiva objetiva.
+- Estimular la memoria mediante actividades de memorización, para ello, se puede empezar con tareas simples, tal como memorizar números telefónicos, y luego ir subiendo la dificultad gradualmente, como tratar de recordar los detalles de un logo de una marca (colores, letras, formas, estilos tipográficos, etc.).
+
+
+Algunos de los personajes famosos con inteligencia lógica-matemática son:
+- Isaac Newton: Científico, físico, filósofo, inventor, alquimista y matemático inglés.
+- Alan Turing: Matemático británico, uno de los precursores de la informática.
+- Sofia Kovalévskaya: Matemática rusa con aportaciones en el campo del análisis, la mecánica y las ecuaciones.
+- Katherine Johnson, Dorothy Vaughan y Mary Jackson: Grupo de mujeres matemáticas de origen afroamericano que, gracias a sus cálculos trabajando para la NASA, ayudaron de forma sustancial para la llegada del hombre a la Luna
+
+
+*Inteligencia corporal kinestésica*
+
+La inteligencia kinestésica corporal alude a la capacidad que tiene una persona para coordinar la mente con el cuerpo y así generar un rendimiento físico de alto nivel. Es decir, se refiere a la facultad para utilizar las virtudes del cuerpo humano y lograr una gran destreza física.
+
+Como se aprecia, es una inteligencia que se puede contemplar en distintos ámbitos de la vida, ya que la utilización de alguna habilidad física, como la precisión, la fuerza, el equilibrio, la velocidad, la resistencia y la flexibilidad, son capacidades propias de esta Inteligencia.
+
+Las personas con estas capacidades se expresan a través de la realización de actividades que requieran el uso de su cuerpo, desenvolviéndose con gran nivel en dichos contextos.
+
+Algunos de los personajes famosos con inteligencia corporal kinestésica son:
+- Rudolf Nuréyev: Bailarín que nació en la Unión Soviética.
+- Florence Griffith Joyne: Atleta de velocidad estadounidense
+- Christiaan Neethling Barnard: Cirujano cardíaco sudamericano
+- Muhammad Ali: Boxeador estadounidense.
+
+*Inteligencia espacial*
+
+La inteligencia visual espacial se refiere a la capacidad que tiene una persona de pensar, representar y actuar efectivamente en espacios de dos o tres dimensiones. Tiene en cuenta, además, las diversas formas geométricas que constituyen el espacio, así como sus propiedades (ubicación, forma, color, volumen, ángulos, material, etc.).
+
+Es la habilidad para visualizar y relacionar los objetos que existen en un determinado plano, y desenvolverse adecuadamente en ello.
+
+Este tipo de inteligencia se puede contemplar en distintos ámbitos y en diferentes perfiles profesionales, como, por ejemplo: Topógrafos, cartógrafos, geógrafos, arquitectos, pilotos de barcos, conductores profesionales, dibujantes, ingenieros y diseñadores gráficos.
+
+Algunos de los personajes famosos con inteligencia espacial son:
+- Le Corbusier: Arquitecto, urbanista, pintor y escultor suizo.
+- Richard Buckminster Fuller: Arquitecto, diseñador e inventor estadounidense.
+- Edward Hopper: Fue un pintor estadounidense.
+- Gerardus Mercator: Fue un geógrafo, cartógrafo y matemático flamenco.
+
+*Inteligencia intrapersonal*
+
+La inteligencia intrapersonal alude a la capacidad que posee una persona para conocerse a sí misma. Es decir, es la consciencia plena que tiene un individuo sobre sus fortalezas, sus debilidades, su personalidad, sus sentimientos y sus anhelos en la vida.
+
+Es aquella inteligencia que permite a una persona saber a cabalidad, por medio del autoconocimiento, quién es ella en realidad.
+
+Es una forma de proyectar con exactitud su forma más profunda de ser, ello incluye los aspectos positivos y los aspectos negativos.
+
+Entre los perfiles profesionales en los que más se encuentra la inteligencia intrapersonal, están: Filósofos, psicólogos, antropólogos, escritores, etc.
+
+Algunos de los personajes famosos con inteligencia intrapersonal son los siguientes:
+- Sócrates
+- Pitágoras
+- Platón
+- Aristóteles
+- Demócrito
+- Agustín de Hipona
+- Parménides de Elea
+- Heráclito de Éfeso
+- Jean-Paul Sartre
+
+
+*Inteligencia interpersonal*
+
+La inteligencia interpersonal, también conocida como inteligencia social, se define como la capacidad que tiene una persona para comunicarse efectivamente con los demás, entenderlas emocionalmente y empatizar con ellas.
+Los individuos con esta tipología intelectual son, por lo general, perfiles como: líderes políticos, líderes sociales, líderes empresariales, figuras influyentes, psicológicos, entrenadores deportivos, docentes, comunicadores sociales, vendedores profesionales, conferencistas, etc.
+Algunos de los personajes famosos con inteligencia interpersonal son:
+- Joe Girard: Vendedor profesional estadounidense. 
+- Steve Jobs: Líder empresarial estadounidense, cofundador y presidente de Apple. 
+- Coco Chanel: Empresaria y diseñadora de moda francesa. 
+- Malcolm X: Político, orador y activista estadounidense. 
+
+*Inteligencia naturalista*
+
+La inteligencia naturalista se refiere a la capacidad de contemplar, identificar y clasificar a los seres vivos, así como comprender la relación que existen ellos. Es, también, la habilidad para intervenir en el medio ambiente y conseguir un objetivo en concreto.
+
+Esta inteligencia permite distinguir especies, señalar sus diferencias o semejanzas, estudiar sus comportamientos y entender el vínculo existente entre cada una de ellas.
+
+Dentro de los perfiles que más poseen esta tipología intelectual, están: Biólogos, científicos ambientales, ecólogos, botánicos, conservacionistas, etólogos, veterinarios, zoólogos, entomólogos, ictiólogos, ornitólogos, herpetólogos, naturalistas, etc.
+
+Algunos de los personajes famosos con inteligencia naturalista son:
+- Charles Darwin: Naturalista, biólogo, botánico, geólogo, entomólogo y apicultor británico
+- Alexander von Humboldt: Naturalista, botánico, explorador, geógrafo, astrónomo originario del Reino de Prusia
+- Mária Telkes: Científica e inventora de origen húngaro y con nacionalidad de estadounidense
+- Rachel Carson: Bióloga marina, ambientalista, conservacionista, zoóloga y escritora estadounidense
 
 
 
@@ -288,10 +569,55 @@ Los laberintos se clasifican básicamente en dos grandes grupos "según la relac
 
 - Generar los espacios de estados de los siguientes problemas:
 
-1. El juego consiste en pasar las 3 ranas verdes a la derecha y las 3 ranas marrones a la izquierda.  Las ranas pueden saltar a una piedra vacía que tengan delante, o saltar por encima de otra rana si en medio de ambas hay una piedra vacía.  
+### Juego de las ranas
+
+El juego consiste en pasar las 3 ranas verdes a la derecha y las 3 ranas marrones a la izquierda.  Las ranas pueden saltar a una piedra vacía que tengan delante, o saltar por encima de otra rana si en medio de ambas hay una piedra vacía.  
 ![Juego de las Ranas Marrones y Verdes](Ranas.png)
-2. Tres misioneros se perdieron explorando una jungla. Separados de sus compañeros, sin alimento y sin radio, solo sabían que para llegar a su destino debían ir siempre hacia adelante.  Los tres misioneros se detuvieron frente a un río que les bloqueaba el paso, preguntándose que podían hacer. De repente, aparecieron tres caníbales llevando un bote, pues también ellos querían cruzar el río. Ya anteriormente se habían encontrado grupos de misioneros y caníbales, y cada uno respetaba a los otros, pero sin confiar en ellos.  Los caníbales se daban un festín con los misioneros cuando les superaban en número. Los tres caníbales deseaban ayudar a los misioneros a cruzar el río, pero su bote no podía llevar más de dos personas a la vez y los misioneros no querían que los caníbales les superaran en número. ¿Cómo puede resolverse el problema, sin que en ningún momento haya más caníbales que misioneros en cualquier orilla del río? Recuerda que un misionero y un caníbal en una orilla del río más uno o dos caníbales en el bote al mismo lado, significa que los misioneros tendrán problemas.         
+
+*Espacios de estados*
+
+
+| MOVIMIENTO |POSICION 1 | POSICION 2 | POSICION 3 | POSICION 4 | POSICION 5 | POSICION 6 | POSICION 7 |
+|------------|-----------|------------|------------|------------|------------|------------|------------|
+|1|V3|V2|V1|-|M1|M2|M3|
+|2|V3|V2|-|V1|M1|M2|M3|
+|3|V3|V2|M1|V1|-|M2|M3|
+|4|V3|V2|M1|V1|M2|-|M3|
+|5|V3|V2|M1|-|M2|V1|M3|
+|6|V3|-|M1|V2|M2|V1|M3|
+|7|-|V3|M1|V2|M2|V1|M3|
+|8|M1|V3|-|V2|M2|V1|M3|
+|9|M1|V3|M2|V2|-|V1|M3|
+|10|M1|V3|M2|V2|M3|V1|-|
+|11|M1|V3|M2|V2|M3|-|V1|
+|12|M1|V3|M2|-|M3|V2|V1|
+|13|M1|-|M2|V3|M3|V2|V1|
+|14|M1|M2|-|V3|M3|V2|V1|
+|15|M1|M2|M3|V3|-|V2|V1|
+|16|M1|M2|M3|-|V3|V2|V1|
+
+
+### Juego de los misioneros y canibales
+
+Tres misioneros se perdieron explorando una jungla. Separados de sus compañeros, sin alimento y sin radio, solo sabían que para llegar a su destino debían ir siempre hacia adelante.  Los tres misioneros se detuvieron frente a un río que les bloqueaba el paso, preguntándose que podían hacer. De repente, aparecieron tres caníbales llevando un bote, pues también ellos querían cruzar el río. Ya anteriormente se habían encontrado grupos de misioneros y caníbales, y cada uno respetaba a los otros, pero sin confiar en ellos.  Los caníbales se daban un festín con los misioneros cuando les superaban en número. Los tres caníbales deseaban ayudar a los misioneros a cruzar el río, pero su bote no podía llevar más de dos personas a la vez y los misioneros no querían que los caníbales les superaran en número. ¿Cómo puede resolverse el problema, sin que en ningún momento haya más caníbales que misioneros en cualquier orilla del río? Recuerda que un misionero y un caníbal en una orilla del río más uno o dos caníbales en el bote al mismo lado, significa que los misioneros tendrán problemas.         
 ![Juego de Misioneros y Canibales](MisionerosYCanibales.png)
+
+*Espacios de estados*
+
+| MOVIMIENTO | MISIONEROS OESTE | CANIBALES OESTE | MISIONEROS ESTE | CANIBALES ESTE | BALSA |
+|------|-------------------|------------------|------------------|-----------------|-------|
+| 1    | 3                 | 3                | 0                | 0               | OESTE |
+| 2    | 3                 | 1                | 0                | 2               | ESTE  |
+| 3    | 3                 | 2                | 0                | 1               | OESTE |
+| 4    | 3                 | 0                | 0                | 3               | ESTE  |
+| 5    | 3                 | 1                | 0                | 2               | OESTE |
+| 6    | 1                 | 1                | 2                | 2               | ESTE  |
+| 7    | 2                 | 2                | 1                | 1               | OESTE |
+| 8    | 0                 | 2                | 3                | 1               | ESTE  |
+| 9    | 0                 | 3                | 3                | 0               | OESTE |
+| 10   | 0                 | 1                | 3                | 2               | ESTE  |
+| 11   | 0                 | 2                | 3                | 1               | OESTE |
+| 12   | 0                 | 0                | 3                | 3               | ESTE  |
 
 
 ## 9. Generación de Dataset<a name="Elemento9"></a>
@@ -301,145 +627,3 @@ Un conjunto de datos (conocido también por el anglicismo dataset, comúnmente u
 En el caso de datos tabulados, un conjunto de datos contiene los valores para cada una de las variables organizadas como columnas, como por ejemplo la altura y el peso de un objeto, que corresponden a cada miembro del conjunto de datos, que están organizados en filas. Cada uno de estos valores se conoce con el nombre de dato. El conjunto de datos también puede consistir en una colección de documentos o de archivos.
 
 - Generar un dataset de rostros por lo menos 5 diferentes
-
-
-
-## Algoritmo para ganar, empatar o nunca perder en el juego tic tac toe (también llamado Gato o 3 en línea)
-
-Para la solución de este algoritmo tenemos dos opciones iniciales: Que sea el agente quien inicie el juego, o que el contrincante inicie el juego.
-
-Como idea inicial, podemos decir que quien inicie el juego esta jugando a la ofensiva y el que inicia en segundo lugar juega a la defensiva.
-
-Para empezar vamos describiendo el tablero de juego: el tablero es una cuadricula construida por 2 lineas horizontales paralelas que se intersectan con 2 lineas verticales paralelas generando 9 espacios. Para poder identificar cada uno de estos espacios, los numeraremos de forma que el cuadro superior izquierdo sea el numero 1, el cuadro superior central sea el numero 2, el cuadro superior derecho sea el numero 3, el cuadro central izquierdo sea el numero 4 y así sucesivamente.
-
-El juego consiste en colocar 3 figuras en línea vertical, horizontal o en diagonal. Normalmente representadas por medio de una cruz y un circulo. Debido a que debemos buscar un acomodo específico con las figuras, las cuadrículas del tablero de juego tienen un peso diferente debido a la cantidad de combinaciones que pueden generar. Las cuadriculas de mayor valor son la central y las esquinas de nuestro tablero, mientras que los centros laterales son los recuadros con menos valor por lo limitado que se vuelve el juego desde estos origenes. Por lo tanto, debemos de priorizar el uso de las esquinas y del centro para que el juego resulte ganador. 
-
-Para la explicación estaremos refiriendonos al jugador 1 y al jugador 2 como  el agente y el contrincante, respectivamente. Con estos antecedentes, podemos empezar.
-
-Supongamos que el agente es el primero en iniciar, por lo que es muy recomendable iniciar en alguna de las esquinas. Si el contrincante coloca su primera pieza en una cuadricula lateral central tenemos prácticamente el juego ganado. Nuestra segunda figura tendrá que ser en una segunda esquina que no esté en forma diagonal con nuestra primera figura, es decir, que se encuentre de forma vertical u horizontal pero que la primera pieza del contrincante no esté en medio de las nuestras. El siguiente tiro del contrincante deberá tapar la cuadricula media entre las dos piezas del agente ya que si no hace esto, en el siguiente turno ganariamos. Al momento de que el contrincante haga su tiro, nosotros procederemos a poner nuestra pieza en una esquina que esté en diagonal con respecto a una de nuestras piezas y en forma horizontal o vertical sin que alguna pieza del contrincante interfiera. En el momento en que nosotros hacemos eso, tenemos dos vectores de solución en los que si el contrincante nos bloquea uno de ellos, podemos lograr nuestro objetivo con la segunda opción.
-
-Ahora, supongamos que el agente es el primero en iniciar y tira de nuevo en una esquina, y si nuestro contrincante pone su primera ficha en una esquina, debemos de seguir con la estrategia de poner el segundo simbolo en otra esquina pero ahora que sea en forma diagonal como prioridad, y si esto no es posible, entonces que sea en una esquina de forma vertical u horizontal. Al hacer esto, el contrincante esta obligado a bloquear esta jugada. Como tercer tiro, debemos colocar la pieza en la ultima esquina restante y esto volverá a generar que existan 2 formas de ganar y el contrincante solamente pueda bloquear una.
-
-Por último, si el agente tira en una esquina y el contrincante en el centro, el juego terminará en empate seguramente ya que nos podemos dedicar a mutuamente a bloquear la jugada del contrincante y ninguno ganará.
-
-
-##  Secuencia de percepción y medida de rendimiento
-
-### Ejercicio 1
-El primer ejercicio para realizar esta actividad dice lo siguiente:
-
-> Un arriero se encuentra en el borde de un rio llevando un puma, una cabra y una lechuga. Debe cruzar a la otra orilla por medio de un bote con capacidad para dos (el arriero y alguna de sus pertenecias). La dificultad es que si el puma se queda solo con la cabra la devorará, y lo mismo sucederá si la cabra se queda sola con la lechuga. ¿Cómo cruzar sin perder ninguna pertenencia?
-
-Solución:
-
-Para la solución del problema debemos de definir unas cuantas cosas antes de dar una respuesta.
-
-#### Representación de las configuraciones del universo del problema
-
-Basta precisar la situación antes o después de cruzar. El arriero y cada una de sus pertenencias tienen que estar en alguna de las dos orillas. La representación del estado debe entonces indicar en que lado se encuentra cada uno de ellos. Para esto se puede utilizar un término simbólico con la siguiente sintáxis: estado(A,P,C,L), en que A, P, C y L son variables que representan, respectivamente, la posición del arriero, el puma, la cabra y la lechuga. Las variables pueden tomar dos valores: i y d, que simbolizan respectivamente el borde izquierdo y el borde derecho del rio. Por convención se elige partir en el borde izquierdo. El estado inicial es entonces estado(i,i,i,i). El estado objetivo es estado(d,d,d,d).
-
-#### Definición de las reglas de transición
-
-El arriero tiene cuatro acciones posibles: cruzar solo, cruzar con el puma, cruzar con la cabra y cruzar con la lechuga. Estas acciones están condicionadas a que ambos pasajeros del bote estén en la misma orilla y a que no queden solos el puma con la cabra o la cabra con la lechuga. El estado resultante de una acción se determina intercambiando los valores i y d para los pasajeros del bote.
-
-#### Generación del espacio de estados
-
-En la tabla siguiente se muestran los posibles estados de este problema:
-
-|Estado			 |Movidas		    |Movidas        |Movidas        |Movidas        |
-|---------------	 |------         |---            |---            |---            |
-|					 |**cruza solo** |**con puma**   |**con cabra**  |**con lechuga** |
-|estado(i,i,i,i)  |problema       |problema       |estado(d,i,d,i)|problema       |
-|estado(d,i,d,i)  |estado(i,i,d,i)|imposible      |estado(i,i,i,i)|imposible      |
-|estado(i,i,d,i)  |estado(d,i,d,i)|estado(d,d,d,i)|imposible      |estado(d,i,d,d)|
-|estado(d,d,d,i)  |problema       |estado(i,i,d,i)|estado(i,d,i,i)|imposible      |
-|estado(d,i,d,d)  |problema       |imposible      |estado(i,i,i,d)|estado(i,i,d,i)|
-|estado(i,d,i,i)  |problema       |imposible      |estado(d,d,d,i)|estado(d,d,i,d)|
-|estado(i,i,i,d)  |problema       |estado(d,d,i,d)|estado(d,i,d,d)|imposible      |
-|estado(d,d,i,d)  |estado(i,d,i,d)|estado(i,i,i,d)|imposible      |estado(i,d,i,i)|
-|estado(i,d,i,d)  |estado(d,d,i,d)|imposible      |estado(d,d,d,d)|imposible      |
-|estado(d,d,d,d)  |problema       |problema       |estado(i,d,i,d)|problema       |
-
-
-
-
-### Ejercicio 2
-El segundo ejercicio menciona lo siguiente:
-
-> Se tienen 3 monjes y 3 caníbales en el margen Oeste de un río. Existe una canoa con capacidad para dos personas como máximo. Se desea que los seis pasen al margen Este del río, pero hay que considerar que no debe haber más caníbales que monjes en ningún sitio porque entonces los caníbales se comen a los monjes. Además, la canoa siempre debe ser conducida por alguien.
-
-Solución:
-Para la solución del problema debemos de definir unas cuantas cosas antes de dar una respuesta.
-
-#### Definición de las reglas de transición
-
-Las reglas que se pueden aplicar son:
-
-* Viajan un monje y un caníbal de O a E:
-
-Si (Mo, Co, Me, Ce, O) AND Mo>=1 AND Co>=1 AND Ce+1<=Me+1 => (Mo-1, Co-1, Me+1, Ce+1, E)
-
-* Viajan un monje y un caníbal de E a O:
-
-Si (Mo, Co, Me, Ce, E) AND Me>=1 AND Ce>=1 AND Co+1<=Mo+1=> (Mo+1, Co+1, Me-1, Ce-1,O)
-
-* Viajan dos monjes de O a E:
-
-Si (Mo, Co, Me, Ce, O) AND Mo>=2 AND (Mo-2=0 OR Co<=Mo-2) AND Ce<=Me+2=> (Mo-2, Co, Me+2, Ce, E)
-
-* Viajan dos monjes de E a O:
-
-Si (Mo, Co, Me, Ce, E) AND Me>=2 AND (Me-2=0 OR Ce<=Me-2) AND Co<=Mo+2 => (Mo+2, Co, Me-2, Ce, O)
-
-* Viajan dos caníbales de O a E:
-
-Si (Mo, Co, Me, Ce, O) AND Co>=2 AND (Me=0 OR Ce+2<=Me) => (Mo, Co-2, Me, Ce+2, E)
-
-* Viajan dos caníbales de E a O:
-
-Si (Mo, Co, Me, Ce, E) AND Ce>=2 AND (Mo=0 OR Co+2<=Mo) => (Mo, Co+2, Me, Ce-2, O)
-
-* Viaja un monje de O a E:
-
-Si (Mo, Co, Me, Ce, O) AND Mo>=1 AND (Mo-1=0 OR Co<=Mo-1) AND Ce<= Me+1 => (Mo-1, Co, Me+1, Ce, E)
-
-* Viaja un monje de E a O:
-
-Si (Mo, Co, Me, Ce, E) AND Me>=1 AND (Me-1=0 OR Ce<=Me-1) AND Co<=Mo+1 => (Mo+1, Co, Me-1, Ce,O)
-
-* Viaja un caníbal de O a E:
-
-Si (Mo, Co, Me, Ce, O) AND Co>=1 AND (Me=0 OR Ce+1<=Me) => (Mo, Co-1, Me, Ce+1, E)
-
-* Viaja un caníbal de E a O:
-
-Si (Mo, Co, Me, Ce, O) AND Ce>=1 AND (Mo=0 OR Co+1<=Mo) => (Mo, Co+1, Me, Ce-1, E)
-
-#### Generación del espacio de estados
-
-(3,3,0,0,O) => (3,1,0,2,E) => 
-(3,2,0,1,O) => (3,0,0,3,E) => 
-(3,1,0,2,O) => (1,1,2,2,E) => 
-(2,2,1,1,O) => (0,2,3,1,E) => 
-(0,3,3,0,O) => (0,1,3,2,E) => 
-(0,2,3,1,O) => (0,0,3,3,E)
-
-
-
-### Ejercicio 3
-El tercer ejercicio consiste en que existen 3 ranas rojas del lado izquierdo y 3 ranas azules del lado derecho. Existen 7 espacios en donde pueden estar éstas ranas y hay un espacio en medio de los dos grupos de ranas. El objetivo es que las ranas del lado izquierdo terminen en el lado derecho y viceversa. Las ranas solamente pueden moverse en dirección de su destino y no pueden retroceder una vez que ya saltaron.
-
-Solución:
-
-Para este problema debemos de tomar en cuenta el proceso es el mismo ya sea si inicias de la derecha o la izquierda, sigue el mismo patrón de solución debido a que es simétrico.
-
-Debemos iniciar numerando las posiciones donde se encuentran las ranas, empezando de izquierda a derecha por el numero 1 y terminando en la derecha por el numero 7.
-
-El orden para mover estas ranas es el siguiente, tomando en cuenta la numeración anteriormente establecida:
-
-3 - 5 - 6 - 4 - 2 - 1 - 3 - 5 - 7 - 6 - 4 - 2 - 3 - 5 - 4
-
-De esta forma, las ranas pueden cambiar de posicion sin interferir o bloquear las posibilidades de movimiento de las demás y lograr el objetivo final.
-
-
- 
