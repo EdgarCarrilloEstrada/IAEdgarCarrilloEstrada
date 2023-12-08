@@ -491,7 +491,188 @@ Coloca ocho alfiles (cuatro negros y cuatro blancos) en un tablero de ajedrez re
 ![Tablero de Ajedrez](EjercicioDelAjedrez.png)
 
 ---
-***Ensayo***
+### Ensayo de los 8 alfiles
+
+Para explicar la solución de este problema vamos a numerar cada casilla como se muestra a continuación:
+
+|1|2|3|4|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|9|10|11|12|
+|13|14|15|16|
+|17|18|19|20|
+
+La posición inicial de los alfiles negros es 1,2,3,4 mientras que los alfiles blancos se encuentran en las casillas 17,18,19,20, teniendo dos alfiles que se moverán en las casillas blancas y dos que se moverán en las negras por cada color de las piezas, el tablero inicial se ve de esta manera donde N es para las piezas negras y b para las piezas blancas:
+
+|N|N|N|N|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|9|10|11|12|
+|13|14|15|16|
+|B|B|B|B|
+
+El juego comienza con las piezas blancas, y el primer movimiento es realizado por el alfil en la casilla 18, moviéndose a la casilla 15. Después, las piezas negras realizan su primer movimiento con el alfil de la casilla 3, desplazándose a la casilla 6. Considerando estos movimientos, el tablero quedará de la siguiente manera.
+
+|N|N|3|N|
+|:----|:----|:----|:----|
+|5|N|7|8|
+|9|10|11|12|
+|13|14|B|16|
+|B|18|B|B|
+
+En el segundo turno el alfil blanco que se encuentra en la casilla 17 se mueve a la casilla número 8, dando por finalizado el turno. El alfil negro que se encuentra en la casilla 4, se mueve a la casilla número 13 dejando el tablero de la siguiente manera.
+
+|N|N|3|4|
+|:----|:----|:----|:----|
+|5|N|7|B|
+|9|10|11|12|
+|N|14|B|16|
+|17|18|B|B|
+
+Hasta el momento los dos colores están actuando en forma espejo, es decir que hacen los mismos movimientos, pero del lado contrario, el alfil blanco que se encuentra en la casilla 19, se mueve a la casilla 14. El alfil negro que se encuentra en la casilla 2, se mueve a la casilla 7 dejando el tablero de la siguiente manera.
+
+|N|2|3|4|
+|:----|:----|:----|:----|
+|5|N|N|B|
+|9|10|11|12|
+|N|B|B|16|
+|17|18|19|B|
+
+El alfil que se encuentra en la posición 15 se moverá a la casilla número 5 y acabará el turno de los blancos. El alfil negro que se encuentra en la casilla 6 se moverá a la casilla numero 16 y quedará el tablero de la siguiente manera.
+
+|N|2|3|4|
+|:----|:----|:----|:----|
+|B|6|N|B|
+|9|10|11|12|
+|N|B|15|N|
+|17|18|19|B|
+
+En este momento los dos jugadores ya pueden guardar un alfil, empezando por el blanco que se encuentra en la casilla 8, se moverá a la casilla 3. El alfil negro que está en la casilla 13, se guardara en la casilla 18.
+
+|N|2|B|4|
+|:----|:----|:----|:----|
+|B|6|N|8|
+|9|10|11|12|
+|13|B|15|N|
+|17|N|19|B|
+
+En el turno del blanco se moverá el alfil que está en la casilla número 14 hacia la casilla número 9. El turno del negro se moverá el alfil de la casilla 7 se moverá a la casilla 12 y el tablero queda de la siguiente manera.
+
+|N|2|B|4|
+|:----|:----|:----|:----|
+|B|6|7|8|
+|B|10|11|N|
+|13|14|15|N|
+|17|N|19|B|
+
+En este turno el blanco moverá el alfil de la casilla 5 hacia la casilla 10. El jugador de las piezas negras moverá el alfil de la casilla 16 hacia la casilla 11 y el tablero quedará de la siguiente manera.
+
+|N|2|B|4|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|B|B|N|N|
+|13|14|15|16|
+|17|N|19|B|
+
+Ahora regresaremos el alfil de la casilla 9, a la casilla 19. También se regresará el alfil de la casilla 12, hacia la casilla numero dos 2 y el tablero estara de la siguiente manera.
+
+|N|N|B|4|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|9|B|N|12|
+|13|14|15|16|
+|17|N|B|B|
+
+En este momento los dos colores pueden guardar su segundo alfil, el blanco moverá su alfil de la casilla 10, a la casilla número 4. Por su parte el negro moverá su alfil de la casilla 11, para guardarlo en la casilla 17.
+
+|N|N|B|B|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|9|10|11|12|
+|13|14|15|16|
+|N|N|B|B|
+
+Hasta el momento el comportamiento de los turnos ha sido como en espejo, ambos tienen el mismo número de alfiles guardados, el blanco moverá su alfil de la casilla 20, hacia la casilla 10. El negro moverá el alfil de la casilla 1 a la casilla 11.
+
+|1|N|B|B|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|9|B|N|12|
+|13|14|15|16|
+|N|N|B|20|
+
+Ahora guardamos los alfiles de las esquinas para permitir más movimientos sin riesgo de que se capturen entre sí. El alfil blanco de la casilla 3 se moverá a la casilla 9, mientras que el alfil negro de la casilla 18 se moverá a la casilla 12. El tablero quedará de la siguiente manera.
+
+|1|N|3|B|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|B|B|N|N|
+|13|14|15|16|
+|N|18|B|20|
+
+El blanco moverá su alfil de la casilla 10 hacia la casilla 13, de manera de espejo el negro moverá su alfil 11 a la casilla 8.
+
+|1|N|3|B|
+|:----|:----|:----|:----|
+|5|6|7|N|
+|B|10|11|N|
+|B|14|15|16|
+|N|18|B|20|
+
+Sacaremos de nuevo los alfiles que están en las casillas 19 y 2 respectivamente. El blanco que se encuentra en la casilla 19 se moverá a la casilla 16 y el negro que se encuentra en la casilla 2 se moverá a la casilla 5.
+
+|1|2|3|B|
+|:----|:----|:----|:----|
+|N|6|7|N|
+|B|10|11|N|
+|B|14|15|B|
+|N|18|19|20|
+
+Ahora vamos a guardar los alfiles en su lado contrario, guardaremos el alfil blanco que se encuentra en la posición 16 lo guardamos en la posición 1. Mientras tanto el alfil negro que se encuentra en la posición 5, lo guardaremos en la posición 20 lo cual el tablero quedará de lasiguiente manera.
+
+|B|2|3|B|
+|:----|:----|:----|:----|
+|5|6|7|N|
+|B|10|11|N|
+|B|14|15|16|
+|N|18|19|N|
+
+En este punto, dos alfiles están en su lugar y otros dos están fuera. En el próximo turno, el alfil blanco de la casilla 9 se moverá a la casilla 6, mientras que el alfil negro de la casilla 12 se moverá a la casilla 15. Esto resultará en el siguiente estado del tablero.
+
+|B|2|3|B|
+|:----|:----|:----|:----|
+|5|B|7|N|
+|9|10|11|12|
+|B|14|N|16|
+|N|18|19|N|
+
+Ahora moveremos el alfil blanco que se encuentra en la casilla 13 a la casilla 7 y el alfil negro de la casilla 8 a la casilla 14, para alinearlos y en los próximos turnos ya poder guardarlo. El tablero quedará de la siguiente manera.
+
+|B|2|3|B|
+|:----|:----|:----|:----|
+|5|B|B|8|
+|9|10|11|12|
+|13|N|N|16|
+|N|18|19|N|
+
+Ahora vemos que estamos a dos turnos de lograr cambiar todos los alfiles, el siguiente movimiento será guardar un alfil de cada color, empezaremos con el blanco de la casilla 6 se moverá a la casilla 3 y el alfil negro de la casilla 15, lo guardaremos en la casilla 18 y el tablero queda de la siguiente manera.
+
+|B|2|B|B|
+|:----|:----|:----|:----|
+|5|6|B|8|
+|9|10|11|12|
+|13|N|15|16|
+|N|N|19|N|
+
+Como último paso, simplemente colocamos el último alfil blanco de la casilla 7 en la casilla 2 y el último alfil negro de la casilla 14 en la casilla 19. Este movimiento sigue el patrón establecido durante todo el juego. Con esto, hemos completado el juego, logrando el objetivo de intercambiar los alfiles sin que ninguno se atacara, con un total de 36 movimientos.
+
+|B|B|B|B|
+|:----|:----|:----|:----|
+|5|6|7|8|
+|9|10|11|12|
+|13|14|15|16|
+|N|N|N|N|
+
 
 
 
@@ -509,7 +690,84 @@ Se trata de contar el numero de elementos (islas) contenidos en la siguiente ima
 
 ![Islas](ImagenIslas.png)
 
+### Solucion del conteo de islas
 
+El primer problema con el que nos enfrentaríamos sería el cómo identificar una isla del resto del tablero. Esto se soluciona simplemente poniendo una etiqueta diferente al del tablero. Por ejemplo, en una matriz podríamos meter puros “0” y a una isla el numero “1” para poder diferenciar una isla del tablero.
+
+Un segundo problema que se puede ver es como saber si la isla es vertical u horizontal o incluso una cruz, en general la forma de la isla. Para detectar el espacio más cercano y al frente es decir el siguiente en la fila simplemente le sumariamos un 1 a la matriz y lo compararíamos con la etiqueta que corresponda, pero ¿qué pasa si la isla va en vertical?
+
+Un tercer problema que se puede identificar es el como saber que una isla ya fue visitada y no volver a contarla y caer en un ciclo. Bueno ese problema es sencillo simplemente se cambia la etiqueta que tiene por una diferente a la del tablero y a la de la isla por ejemplo un “-1”.
+
+Para la solución que plantee veremos la programación en Python directamente.
+
+Primero se crea el tablero con las dimensiones que más te gusten para una visualización más clara de tablero.
+
+``` python
+import random
+tam_filas = 4
+tam_columnas = 6
+arreglo = [[0] * tam_columnas for _ in range(tam_filas)]
+```
+
+En este caso solo se creó un tablero de 4*6 en un arreglo para simular las casillas del tablero. Todas las casillas o mejor dicho todo el arreglo se llena con el numero “0” para “poner vacío el tablero”
+
+Lo siguiente por hacer es llenar el tablero con islas, el cual hice una función donde llena aleatoriamente el arreglo o el tablero con los números “0” y “1” de manera aleatoria para seguido de ello imprimir el arreglo para saber cómo quedarían las islas.
+
+```python
+def llenar():
+    for x in range(tam_filas):
+        for y in range(tam_columnas):
+            arreglo[x][y] = random.randint(0, 1)
+            print(f"  {arreglo[x][y]}  ", end="")
+        print()
+```
+
+Después de ello hice la función contar_islas donde prácticamente se encuentra la solución a los problemas que este ejercicio plantea.
+
+Primero se crea un contador inicializado en 0 para ir contando las islas en cada iteración. Seguido de esto se crea un ciclo for anidado con otro ciclo for para iterar cada uno de los espacios y dentro de este ciclo anidado viene la primera condición y es si en el camino de recorrer el arreglo se topa con la etiqueta de la isla es decir el numero “1”, si la condición se cumple entonces se va a la función buscar_vecinos para precisamente encontrar toda la isla completa. Se aumenta el contador de la isla cuando finalice y se regresa de la función la variable que estuvo contando las islas en cada iteración.
+
+``` python
+def contar_islas():
+    islas = 0
+
+    for x in range(tam_filas):
+        for y in range(tam_columnas):
+            if arreglo[x][y] == 1:
+                buscar_vecinos(x, y)
+                islas += 1
+
+    return islas
+```
+
+La siguiente función se encarga de buscar todas las casillas por las cuales esta conformada la isla y esto lo hace a manera recursiva, en este caso para manejar la recursividad tenemos una condición o el estado base que es la condición para saber si ya no hay mas elementos dentro de la isla o si se sale del arreglo, o si ya se conto el elemento. En cualquiera de esos casos la función acaba ahí y se regresa ya sea a la misma función o a contar la siguiente isla. Eso es la primera condición que se puede observar en el código.
+
+La función recibe 2 parámetros que es la posición en la que se encuentra el iterador en donde en la primera vuelta es 0,0. Primero se verifica el caso base donde este es si x o y son menores a 0 es decir si ya fueron visitados o si la casilla donde se posiciona se sale del arreglo o si este es 0 o diferente de 1.
+
+Si cualquiera de esos casos no se cumple entonces quiere decir que la isla continúa haciéndose más grande y que no se ha terminado de cambiar todos los elementos de la isla por “-1” .
+
+Entonces con los parámetros que se pasaron a la función, que marcan la posición de la casilla, se marca como visitada es decir con el valor de “-1”. Y se continúa buscando en la isla si tiene mas elementos. Por ejemplo, en la primera vuelta se posiciona en la primera casilla es decir 0,0 y en esa casilla hay un numero 1, entonces se cambia ese valor por -1, después de eso se le resta uno a la fila es decir los parámetros que se usan para llamar a la misma función de manera recursiva serian -1,0 como este valor entra en el caso base se regresa a la función donde los valores son 0,0 y sigue el curso de la función. Ahora se manda llamar asimismo la función pero con los valores 1,0  e igualmente lo hace con las columnas. Solo le suma o le resta a el segundo parámetro de la función para buscar.
+
+```python
+def buscar_vecinos(x, y):
+    if x < 0 or y < 0 or x >= tam_filas or y >= tam_columnas or arreglo[x][y] != 1:
+        return
+
+    arreglo[x][y] = -1
+
+    buscar_vecinos(x - 1, y) #Busca en las filas hacia atrás
+    buscar_vecinos(x + 1, y) #Busca en las filas hacia adelante
+    buscar_vecinos(x, y - 1) #Busca en las columnas hacia arriba
+    buscar_vecinos(x, y + 1) #Busca en las columnas hacia abajo
+```
+
+y así con esta función recursiva no importa el tamaño, la forma de la isla o el tamaño del tablero siempre podrá contar las islas en el tablero. Una vez terminado de recorrer toda la isla y cambiar las etiquetas “1” por “-1” se regresa a la función contar_islas a sumar una isla al contador y seguir recorriendo el arreglo hasta encontrar otro numero 1 y repetir de nuevo todo el proceso recursivo ya que este “1” marcaria otra isla.
+
+Y por último solo quedaría mandar llamar la función llenar para llenar de islas al tablero e imprimir la variable islas para saber cuántas islas conto la variable iterador durante el proceso.
+
+```python
+llenar()
+    print("Numero de islas en la matriz:", contar_islas())
+```
 
 
 
@@ -520,6 +778,122 @@ La introspección (del latín "introspicere" que significa "mirar en el interior
 Una vez que se resolvió el algoritmo de las islas, en la siguiente imagen contar los elementos que tienen el color rojo.
 
 ![Imagen con objetos de color rojo](ImagenColorRojo.png)
+
+### Solucion de elementos de color rojo
+
+Vamos a explorar las diferencias entre los modelos de color RGB (Red, Green, Blue) y HSV (Hue, Saturation, Value) y cómo funcionan cada uno.
+
+***Modelo de Color RGB***
+
+1. Componentes:
+    - Rojo (Red): Controla la intensidad del color rojo.
+    - Verde (Green): Controla la intensidad del color verde.
+    - Azul (Blue): Controla la intensidad del color azul.
+2. Funcionamiento:
+    - Cada componente varía en intensidad de 0 a 255.
+    - La combinación de estos tres colores en diferentes intensidades crea una amplia gama de colores.
+    - Por ejemplo, si los tres componentes están en su valor máximo (255, 255, 255), se obtiene blanco, mientras que si están en su valor mínimo (0, 0, 0), se obtiene negro.
+3. Aplicaciones:
+    - Ampliamente utilizado en la visualización de colores en pantallas de dispositivos como monitores, televisores y cámaras digitales.
+    - En el diseño gráfico y la programación visual.
+
+***Modelo de Color HSV***
+
+1. Componentes:
+    - Matiz (Hue): Representa el tipo de color en grados (0-360).
+    - Saturación (Saturation): Mide la intensidad del color (0-100%).
+    - Valor (Value): Mide la luminosidad del color (0-100%).
+2. Funcionamiento:
+    - Matiz define el tipo de color en la rueda de colores.
+    - Saturation controla la pureza del color, con 0% siendo un tono de gris.
+    - Value representa la luminosidad, donde 0% es negro y 100% es blanco.
+    - Este modelo es más intuitivo para la selección y manipulación de colores.
+3. Aplicaciones:
+    - Ampliamente utilizado en el diseño gráfico y la edición de imágenes.
+    - Facilita el ajuste intuitivo de colores al permitir cambios independientes en matiz, saturación y valor.
+
+***Diferencias Clave***
+
+1. Representación:
+    - RGB se basa en la mezcla aditiva de luces para formar colores.
+    - HSV se enfoca en la percepción humana del color, facilitando la manipulación intuitiva.
+2. Selección de Colores:
+    - RGB es más técnico y menos intuitivo para la selección de colores.
+    - HSV proporciona una rueda de colores más natural para el ojo humano.
+3. Manipulación de Imágenes:
+    - HSV es más comúnmente utilizado en aplicaciones de edición de imágenes debido a su naturaleza intuitiva.
+
+Ahora que entendemos un poco mejor estos dos tipos de representación de los colores vemos claramente que es más fácil manipular los colores cuando utilizamos el HSV ya que podemos seleccionar más fácilmente algún color o colores en específico. Así que para darle una solución al problema de detectar los objetos rojos en una imagen utilizaremos esta gama de colores en HSV.
+
+A continuación, explicaré la solución que propuse para este problema.
+
+Primero que nada, se debe de leer la imagen la cual contendrá los objetos de color rojo y además de importar la librería de CV lo cual se hace de la manera siguiente.
+
+```py
+import cv2 as cv 
+img = cv.imread("images/f1.jpg")
+```
+
+Después de esto asignamos el rango de colores en HSV para el color rojo, para esto se marca un color alto y un color bajo que es la gama de colores rojo que se tomarán en cuenta para los objetos, entre más ajustada estén estos altos y bajos mejor será la detección del color, en este caso el sistema HSV tiene dos espectros de color rojo por lo cual en las siguientes líneas de código tenemos 2 valores para alto y 2 valores para bajos.
+
+```py
+redBajo1 = (0,100,20)
+redAlto1 = (4,255,255)
+
+redBajo2 = (174,100,20)
+redAlto2 = (179,255,255)
+```
+
+seguido de esto debemos de cambiar el espectro de BGR a HSV de la imagen para poder trabajar con los colores correspondientes. Y esto se hace con una función de CV tal cual se muestra a continuación
+
+```py
+img1 = cv.cvtColor (img, cv.COLOR_BGR2HSV)
+```
+
+Una vez que tenemos la imagen en colores HSV debemos de crear unas mascaras que servirán para que únicamente se muestren los objetos que tienen los valores de rojo que declaramos anteriormente que son los de redBajo y redAlto. Se crean ambas mascaras para filtrar los objetos de color rojo y como son 2 diferentes se crean 2 por separado para después combinarlas con la función de cv.add() justo como se muestra a continuación. Una vez aplicadas estas mascaras estas quedaran en una escala de blanco y negro es decir estarán binarizadas.
+
+```python
+mask1 = cv.inRange (img1, redBajo1, redAlto1)
+mask2 = cv.inRange (img1, redBajo2, redAlto2)
+mask = cv.add(mask1, mask2)
+```
+
+seguido de esto limpio con operadores morfológicos para disminuir el ruido de los objetos detectados y también falsos positivos o pixeles de rojo que son diminutos.
+
+```py
+kernel = cv.getStructuringElement(cv.MORPH_ELLIPSE, (3, 3))
+limpio = cv.morphologyEx(mask, cv.MORPH_OPEN, kernel)
+```
+
+Hasta este punto en la imagen limpio podemos ver ya todos los objetos de color rojo aislados y simplemente quedaría contarlos. Para ello debemos de detectar los contornos que se generaron de cada uno de los objetos, para ello creamos una tupla para todos los contornos que hemos aislado con las máscaras anteriormente mencionadas. Se inicializa un contador en 0 para ir contando los objetos de la imagen y se crea un ciclo para recorrer todas las figuras que se detectaron para poder tener más información sobre ellas.
+
+```py
+ctns, _ = cv.findContours(limpio, cv.RETR_EXTERNAL,cv.CHAIN_APPROX_SIMPLE)
+cont = 0
+for c in ctns:
+```
+
+Dentro del ciclo se crea una variable que toma en cuenta el área del objeto que se detecto para saber el tamaño de este y hacer una condición para que solo tome en cuenta los objetos de cierto número de pixeles y evitar los que probablemente sean un falso positivo. Si el objeto es lo suficientemente grande se crea un rectángulo de color negro sobre la imagen original para poder detectar con facilidad el objeto que es de color rojo y por último se aumenta el contador de objetos.
+
+```py
+for c in ctns:    area = cv.contourArea(c)
+    if (area > 15):
+        x,y,w,h = cv.boundingRect(c)
+        cv.rectangle(img,(x,y),(x+w,y+h), (0,0,0),2)
+        cont = cont + 1
+```
+
+por ultimo se crea un texto sobre la imagen con la función de cv.putText() pasándole el contador de objetos, la posición que deseamos que se muestre el resultado del contador de objetos y también el color, fuente y tamaño de la letra para posteriormente mostrar las capas utilizadas y la imagen original con los objetos encerrados en un cuadrado negro y el contador de objetos arriba a la izquierda de color rojo.
+
+```py
+cont = str(cont) + " objetos rojos"
+cv.putText(img, str(cont), (20,30), cv.FONT_HERSHEY_SIMPLEX, 1, (0,0,255), 2)
+cv.imshow ('limpio', limpio)
+cv.imshow ('mask', mask)
+cv.imshow ('original', img)
+cv.waitKey ()
+cv.destroyAllWindows ().
+```
 
 ## 6. Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica<a name="Elemento6"></a>
 
@@ -548,6 +922,51 @@ El problema es muy conocido en el mundo de la matemática y los programadores, y
 
 De la misma forma, una vez que hayamos resuelto el problema para 41 soldados, sería interesante pensar en una estrategia que permita deducir cuál será la posición ganadora en el caso general, es decir, independizarse del número 41 y encontrar alguna estrategia o fórmula que permita deducir el número que hay que elegir sin tener que recorrer todos los pasos intermedios.
 
+Para resolver este tipo de problemas algo que solemos hacer mucho es hacer unos cuantos casos a mano y tratar de encontrar una regularidad vamos a llamar S(n) al superviviente en un círculo de n personas o soldados.
+
+Vamos con algunos ejemplos. Si n es 1 pues S(1) es 1. Si n es 2 el 1 mata al 2 y sobrevive el 1 asi que S(2) = 1. Si n es 3 entonces el uno mata al 2 y el 3 mata al 1 así que S(3) = 3. Siguiendo este ejemplo podemos llenar una tabla como la siguiente.
+
+|n|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|S(n)|1|1|3|1|3|5|7|1|3|5|7|9|11|13|15|1|3|
+
+Analizando un poco esta tablita nos podemos dar cuenta ya varias cosas. Primero que todos los S(n) son números impares así que con esta conclusión podemos decir que ponerse en un numero par no es una muy buena idea.
+
+Además podemos ver que existe cada ciertos tiempos un 1. Este numero 1 aparece en cuando n vale 1, 2, 4, 8, 16, esto quiere decir que aparece cuando n es potencia de 2. A continuación comprobaremos lo de los pares y lo de las potencias de dos para comprobar que no es solo una casualidad.
+
+Primero lo mas sencillo, ¿los números pares siempre mueren?. Pues si por lógica todos los pares mueren en la primer ronda ya que el uno mata al 2 el 3 al 4 el 5 al 6 y así hasta terminar la ronda, así que los pares mueren todos en la primera ronda.
+
+Lo de las potencias de 2 es un poco mas complicado pero demos un ejemplo. Si tenemos que el número n de personas en el círculo es par ocurre siempre que en la primera ronda los pares mueren y le toca actuar de nuevo al número uno, pero ahora tenemos la mitad de personas en el círculo o sea n/2 que si vuelve a ser par estaremos en la misma situación inicial pero con la mitad de soldados y se volverá a cumplir que en el circulo quedará un numero que es potencia de 2 hasta que queda solamente una persona, que es la persona que inicio todo. Esto comprueba que S(n)=1 si n es una potencia de 2.
+
+Ahora para el caso general podemos decir que todo número se puede poner como una Potencia de dos más otro numero. Por ejemplo el 18 = 2^4 + 2. Bueno pues para resolver una parte hacemos lo siguiente: supongamos que el numero de soldados es 2^a+m. Vamos a hacer solo “a” turnos los primeros “A” impares matan a su compañero y entonces le toca el turno al número 2m+1 entonces ya encontramos al superviviente y será el de esta formula.
+
+En el caso de Flavio josephus que eran 41 personas resulta que 41 es 2 elevado a 5 + 9 o sea que M es 9 con lo que la posición del superviviente es la 19.
+
+Por ultimo realice este programa que puede detectar la posición que sobrevivirá tomando en cuenta las condiciones anteriormente explicadas, La primer condición es por si se igresa un 0 en el numero de soldados, este regresa un False ya que pues este problema necesita tener mas de 1 soldado, la segunda condición es por si el numero es par y que el numero de soldados sea exactamente una potencia de 2 si se cumple entonces la posición que se salvará será la numero 1.
+
+Si no se cumplen estas condiciones quiere decir que estamos en el caso general es decir la formula 2m+1 y se hacen las operaciones necesarias para poder realizar la formula y finalmente se retorna el valor de la posición que se salvará.
+
+```py
+#La formula que da solucion a cualquier numero de soldados es 2m + 1
+import math
+def josephus(n):
+    if n <= 0:
+        return False
+    n1=n
+    n1 = math.log2(n)
+    if n%2 == 0 and n1.is_integer():
+        return 1
+    else:
+        potencia = math.floor(math.log2(n))
+        #print(potencia)
+        m = n - 2**potencia
+        posicion_vive = 2*m+1 ##Formula para cualquier numero impar
+        return posicion_vive
+num_soldados = 41
+posicion = josephus(num_soldados)
+print("La posicion que vive es: ", posicion)
+```
+
 ## 7. Introducción a la Inteligencia Artificial: El papel de la heurística<a name="Elemento7"></a>
 
 Los laberintos de forma cuadrada o rectangular son los más antiguos que existen; la primera representación conocida de un laberinto de este tipo se encuentra en una tablilla de Pilo y también aparece, como sello, en las tumbas del antiguo Egipto, donde se hizo famoso desde la antigüedad el Laberinto de Fayum, citado por Heródoto. Los laberintos de forma redonda o circular aparecieron a fines del siglo VII a.  C. en la Italia etrusca; más tarde, aparecen en las monedas de Cnosos, a finales del siglo III a. C. y se cree que eran usadas como mapa del célebre Laberinto de Creta.
@@ -564,6 +983,53 @@ Los laberintos se clasifican básicamente en dos grandes grupos "según la relac
 
 ![Laberinto](Laberinto.png)
 
+### Resolucion del laberinto
+
+La heurística juega un papel crucial en la resolución de problemas al proporcionar atajos o enfoques prácticos que permiten superar la complejidad computacional o la falta de información completa. En lugar de buscar exhaustivamente todas las posibles soluciones, que podría ser impracticable o llevar mucho tiempo, la heurística ayuda a dirigir la atención hacia soluciones más prometedoras, permitiendo un uso más eficiente de los recursos y tiempo disponibles.
+
+A continuación, se presenta un código que resuelve cualquier laberinto utilizando un enfoque recursivo. Primero, creamos el laberinto representado como una matriz, donde las paredes se indican con el número "1", los espacios vacíos con el número "0", la salida del laberinto con el número "2" y el camino para resolver el laberinto con el número "3".
+
+```py
+laberinto = [[1,1,1,1,1,1,1,1,1],
+             [0,0,0,0,0,0,1,0,1],
+             [1,1,1,0,1,1,1,0,1],
+             [1,0,0,0,1,0,1,0,1],
+             [1,0,1,1,1,0,1,0,1],
+             [1,0,0,0,0,0,0,0,1],
+             [1,0,1,1,1,0,1,0,1],
+             [2,0,1,0,0,0,1,0,1],
+             [1,1,1,1,1,1,1,1,1],
+]
+```
+
+A continuación, presento la función recursiva denominada buscar() que se encarga de resolver el laberinto. La función contiene condiciones para validar la posición (x, y) dentro de los límites del laberinto y establece casos base para determinar si se ha encontrado la salida (2). Además, se asegura de no visitar paredes (1) o celdas ya marcadas (3).
+
+Dentro de la tercera condición, se implementa una llamada recursiva para explorar los cuatro vecinos de la casilla actual. Esta recursividad permite buscar el camino de solución del laberinto y marcar las celdas con "0" o "1", dependiendo de la configuración del laberinto. La función continúa hasta encontrar la salida marcada como "2".
+
+Finalmente, se llama a la función con las coordenadas iniciales (1, 0) y se imprime el laberinto resuelto.
+
+```py
+def buscar(x, y):
+    if x < 0 or y < 0 or x >= 9 or y >= 9:
+        return
+    if laberinto[x][y] == 2:
+        return True
+    elif laberinto[x][y] != 1 and laberinto[x][y] != 3:
+        laberinto[x][y] = 3
+        if buscar(x-1, y) or buscar(x+1, y) or buscar(x, y-1) or buscar(x, y+1):
+            return True
+        else:
+            laberinto[x][y] = 0
+
+# Resolver el laberinto desde la posición inicial (1, 0)
+buscar(1, 0)
+
+# Imprimir el laberinto resuelto
+for x in range(9):
+    for y in range(9):
+        print(f"  {laberinto[x][y]}  ", end="")
+    print()
+```
 
 ## 8. Reglas y Búsquedas: Espacio de Estados<a name="Elemento8"></a>
 
@@ -627,3 +1093,56 @@ Un conjunto de datos (conocido también por el anglicismo dataset, comúnmente u
 En el caso de datos tabulados, un conjunto de datos contiene los valores para cada una de las variables organizadas como columnas, como por ejemplo la altura y el peso de un objeto, que corresponden a cada miembro del conjunto de datos, que están organizados en filas. Cada uno de estos valores se conoce con el nombre de dato. El conjunto de datos también puede consistir en una colección de documentos o de archivos.
 
 - Generar un dataset de rostros por lo menos 5 diferentes
+
+### Código para generar dataset
+
+El código para generar un dataset consiste en un programa que toma imágenes de la cámara del dispositivo, y de esa imagen se toma solamente una sección de la imagen para aumentar la precisión o enfoque de los elementos a utilizar para el dataset.
+
+En esta primera parte, importamos las librerias y creamos una variable llamada cap en la cual vamos a estar recibiendo la informacion de la cámara. Pasamos como parámetro a la función el número 0 debido a que vamos a tomar en cuenta la webcam de nuestra laptop. Si tuvieramos 2 o más cámaras conectadas debemos de revisar cual número le corresponde, por ejemplo, podríamos pasar el número uno para usar una cámara que esté conectada por medio de USB.
+
+``` py
+import cv2 as cv
+import numpy as np
+import os
+
+cap = cv.VideoCapture(0)
+
+```
+
+Ahora, debemos de poner dentro de un ciclo infinito el codigo para estar leyendo cuadro por cuadro de la imagen tomada por la webcam para que se vayan guardando los archivos. Creamos un rectangulo dentro de la imagen para que el usuario pueda posicionarse dentro de éste y que se tome la información de esa zona.
+
+Todo esto va a detenerse cuando el usuario presione la tecla "Escape" dentro de su teclado y cerrará el programa.
+
+```py
+
+
+i = 0
+
+while True:
+    i = i + 1
+
+    ret, frame = cap.read()
+    if ret == False: break
+
+    
+    cv.rectangle(frame, (190, 80), (450, 398), (255,0,0), 2)
+
+    frame2 = frame[80:398, 190:450]
+    
+
+    cv.imshow("frame", frame)
+    
+
+    cv.imwrite(f'C:\\Users\\edgar\\Desktop\\dataset\\img{i}.jpg', frame2)
+
+
+    k = cv.waitKey(1)
+    if k == 27:
+        break
+
+cap.release()
+cv.destroyAllWindows()
+
+
+```
+
